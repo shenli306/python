@@ -1,0 +1,57 @@
+[32mINFO    [0m -----selenium------:Logs.py:43 启动edge浏览器,耗时:2.488996744155884秒
+[32mINFO    [0m -----selenium------:Logs.py:43 打开地址http://39.102.208.214/haidao/index.php?m=admin&c=index&a=index,耗时:3.7742655277252197秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,username,耗时:0.0349123477935791秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,username,admin,耗时:0.18774032592773438秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,password,耗时:0.04245281219482422秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,password,111111,耗时:0.24840044975280762秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,dosubmit,耗时:0.02604055404663086秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素name,dosubmit,耗时:0.7573225498199463秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,商品,耗时:0.0489809513092041秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,商品,耗时:0.3063631057739258秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,main_frame,耗时:0.06089210510253906秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换框架name,main_frame,耗时:0.26213860511779785秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素text,添加,耗时:0.032590389251708984秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素text,添加,耗时:0.6181290149688721秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,name,耗时:0.024066925048828125秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,name,商品7947922,耗时:0.16946911811828613秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[2]/form/div[2]/div[3]/div/div/div[1]/input[1],耗时:0.028682470321655273秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/div[2]/form/div[2]/div[3]/div/div/div[1]/input[1],耗时:0.34633588790893555秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[2]/form/div[2]/div[3]/div/div/div[3]/span[1],耗时:0.021910667419433594秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/div[2]/form/div[2]/div[3]/div/div/div[3]/span[1],耗时:0.30715370178222656秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[2]/form/div[1]/div/div/input[2],耗时:0.01621842384338379秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/div[2]/form/div[1]/div/div/input[2],耗时:0.3279590606689453秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换默认框架,耗时:0.0033931732177734375秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[6]/div/table/tbody/tr[2]/td/div/iframe,耗时:0.0364375114440918秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换框架xpath,/html/body/div[6]/div/table/tbody/tr[2]/td/div/iframe,耗时:0.12434792518615723秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath, /html/body/div/div[1]/div[1]/a[1],耗时:0.025900602340698242秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath, /html/body/div/div[1]/div[1]/a[1],耗时:0.3567695617675781秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素id,okbtn,耗时:0.03514409065246582秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素id,okbtn,耗时:0.3344156742095947秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换默认框架,耗时:0.00855398178100586秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,main_frame,耗时:0.015844106674194336秒
+[32mINFO    [0m -----selenium------:Logs.py:43 切换框架name,main_frame,耗时:0.1081857681274414秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素id,release,耗时:0.03189992904663086秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素id,release,耗时:0.37119174003601074秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,shop_price[],耗时:0.31965017318725586秒
+[32mINFO    [0m -----selenium------:Logs.py:43 清除内容name,shop_price[],耗时:0.4687666893005371秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,shop_price[],耗时:0.023636341094970703秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,shop_price[],1001433,耗时:0.3259766101837158秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,market_price[],耗时:0.02860856056213379秒
+[32mINFO    [0m -----selenium------:Logs.py:43 清除内容name,market_price[],耗时:0.15526318550109863秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,market_price[],耗时:0.028757095336914062秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,market_price[],208084,耗时:0.2034623622894287秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,number[],耗时:0.032629966735839844秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容name,number[],503871,耗时:0.29723596572875977秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,dosubmit,耗时:0.013573408126831055秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素name,dosubmit,耗时:0.3067591190338135秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素name,dosubmit,耗时:0.022439002990722656秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素name,dosubmit,耗时:0.37065720558166504秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素id,goods_attr,耗时:0.028759241104125977秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素id,goods_attr,耗时:0.39429759979248047秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[2]/div/form/div[1]/div[2]/div,耗时:0.695472002029419秒
+[32mINFO    [0m -----selenium------:Logs.py:43 输入内容xpath,/html/body/div[2]/div/form/div[1]/div[2]/div,61653,耗时:0.9308838844299316秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div[2]/div/form/div[2]/input,耗时:0.030309677124023438秒
+[32mINFO    [0m -----selenium------:Logs.py:43 点击元素xpath,/html/body/div[2]/div/form/div[2]/input,耗时:0.742283821105957秒
+[32mINFO    [0m -----selenium------:Logs.py:43 等待元素xpath,/html/body/div/div/div[2]/span,耗时:0.02734208106994629秒
+[32mINFO    [0m -----selenium------:Logs.py:43 获取文本xpath,/html/body/div/div/div[2]/span,耗时:0.07381272315979004秒
+[32mINFO    [0m -----selenium------:Logs.py:43 关闭浏览器,耗时:2.455336332321167秒

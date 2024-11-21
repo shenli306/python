@@ -1,0 +1,1 @@
+[{"uid":"ce666730218d34ed","name":"验证正确的商品增加001","time":{"start":1731919035055,"stop":1731919052965,"duration":17910},"status":"passed","severity":"critical"},{"uid":"46ad3c4f779799c7","name":"验证正确的商品购买001","time":{"start":1731919057946,"stop":1731919082104,"duration":24158},"status":"passed","severity":"critical"}]

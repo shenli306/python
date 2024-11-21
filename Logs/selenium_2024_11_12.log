@@ -1,0 +1,2848 @@
+2024-11-12 11:03:49,206  -----selenium------  INFO  启动chrome浏览器,耗时:12.59119725227356秒
+2024-11-12 11:04:36,996  -----selenium------  INFO  打开地址http://39.102.208.214/haidao,耗时:47.78659152984619秒
+2024-11-12 11:04:37,014  -----selenium------  INFO  等待元素text,登录,耗时:0.016571521759033203秒
+2024-11-12 11:04:37,314  -----selenium------  INFO  点击元素text,登录,耗时:0.3169095516204834秒
+2024-11-12 11:04:37,329  -----selenium------  INFO  等待元素name,username,耗时:0.015036821365356445秒
+2024-11-12 11:04:37,425  -----selenium------  INFO  输入内容name,username,admin,耗时:0.11157584190368652秒
+2024-11-12 11:04:37,455  -----selenium------  INFO  等待元素name,password,耗时:0.017653703689575195秒
+2024-11-12 11:04:37,549  -----selenium------  INFO  输入内容name,password,111111,耗时:0.11172699928283691秒
+2024-11-12 11:04:37,563  -----selenium------  INFO  等待元素id,popup-submit,耗时:0.012981414794921875秒
+2024-11-12 11:04:37,629  -----selenium------  INFO  点击元素id,popup-submit,耗时:0.07853293418884277秒
+2024-11-12 11:04:40,647  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/ul[2]/li[1]/a,耗时:0.01651620864868164秒
+2024-11-12 11:04:40,674  -----selenium------  INFO  获取文本xpath,/html/body/div[1]/div/ul[2]/li[1]/a,耗时:0.04306840896606445秒
+2024-11-12 11:04:42,845  -----selenium------  INFO  关闭浏览器,耗时:2.16945481300354秒
+2024-11-12 11:04:44,344  -----selenium------  INFO  启动chrome浏览器,耗时:1.4797301292419434秒
+2024-11-12 11:04:44,344  -----selenium------  INFO  启动chrome浏览器,耗时:1.4797301292419434秒
+2024-11-12 11:04:47,137  -----selenium------  INFO  打开地址http://39.102.208.214/haidao,耗时:2.7895991802215576秒
+2024-11-12 11:04:47,137  -----selenium------  INFO  打开地址http://39.102.208.214/haidao,耗时:2.7895991802215576秒
+2024-11-12 11:04:47,155  -----selenium------  INFO  等待元素text,登录,耗时:0.018314123153686523秒
+2024-11-12 11:04:47,155  -----selenium------  INFO  等待元素text,登录,耗时:0.018314123153686523秒
+2024-11-12 11:04:47,432  -----selenium------  INFO  点击元素text,登录,耗时:0.29514646530151367秒
+2024-11-12 11:04:47,432  -----selenium------  INFO  点击元素text,登录,耗时:0.29514646530151367秒
+2024-11-12 11:04:47,447  -----selenium------  INFO  等待元素name,username,耗时:0.0147552490234375秒
+2024-11-12 11:04:47,447  -----selenium------  INFO  等待元素name,username,耗时:0.0147552490234375秒
+2024-11-12 11:04:47,543  -----selenium------  INFO  输入内容name,username,admin,耗时:0.11093878746032715秒
+2024-11-12 11:04:47,543  -----selenium------  INFO  输入内容name,username,admin,耗时:0.11093878746032715秒
+2024-11-12 11:04:47,555  -----selenium------  INFO  等待元素name,password,耗时:0.01047372817993164秒
+2024-11-12 11:04:47,555  -----selenium------  INFO  等待元素name,password,耗时:0.01047372817993164秒
+2024-11-12 11:04:47,649  -----selenium------  INFO  输入内容name,password,1111110,耗时:0.10397863388061523秒
+2024-11-12 11:04:47,649  -----selenium------  INFO  输入内容name,password,1111110,耗时:0.10397863388061523秒
+2024-11-12 11:04:47,660  -----selenium------  INFO  等待元素id,popup-submit,耗时:0.01072382926940918秒
+2024-11-12 11:04:47,660  -----selenium------  INFO  等待元素id,popup-submit,耗时:0.01072382926940918秒
+2024-11-12 11:04:47,720  -----selenium------  INFO  点击元素id,popup-submit,耗时:0.07072663307189941秒
+2024-11-12 11:04:47,720  -----selenium------  INFO  点击元素id,popup-submit,耗时:0.07072663307189941秒
+2024-11-12 11:04:47,797  -----selenium------  INFO  等待元素class,error,耗时:0.07670164108276367秒
+2024-11-12 11:04:47,797  -----selenium------  INFO  等待元素class,error,耗时:0.07670164108276367秒
+2024-11-12 11:04:47,824  -----selenium------  INFO  获取文本class,error,耗时:0.10417532920837402秒
+2024-11-12 11:04:47,824  -----selenium------  INFO  获取文本class,error,耗时:0.10417532920837402秒
+2024-11-12 11:04:50,010  -----selenium------  INFO  关闭浏览器,耗时:2.1846165657043457秒
+2024-11-12 11:04:50,010  -----selenium------  INFO  关闭浏览器,耗时:2.1846165657043457秒
+2024-11-12 17:55:36,009  -----selenium------  INFO  启动chrome浏览器,耗时:1.7095568180084229秒
+2024-11-12 17:55:40,522  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:4.51337194442749秒
+2024-11-12 17:55:40,522  -----selenium------  ERROR  点击元素submit,登录,错误消息定位方式错误
+2024-11-12 17:57:54,762  -----selenium------  INFO  启动chrome浏览器,耗时:1.4546549320220947秒
+2024-11-12 17:58:09,878  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:15.116122961044312秒
+2024-11-12 17:58:09,893  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01436161994934082秒
+2024-11-12 17:58:09,950  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07211923599243164秒
+2024-11-12 18:00:38,213  -----selenium------  INFO  启动chrome浏览器,耗时:1.497481107711792秒
+2024-11-12 18:00:44,440  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:6.22607159614563秒
+2024-11-12 18:00:44,469  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.028348684310913086秒
+2024-11-12 18:00:44,533  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0926508903503418秒
+2024-11-12 18:00:45,878  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.3440649509429932秒
+2024-11-12 18:00:45,948  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.4149410724639893秒
+2024-11-12 18:03:02,950  -----selenium------  INFO  启动chrome浏览器,耗时:1.5055906772613525秒
+2024-11-12 18:03:11,919  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:8.96934986114502秒
+2024-11-12 18:03:11,936  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.016875267028808594秒
+2024-11-12 18:03:11,997  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07795524597167969秒
+2024-11-12 18:03:13,941  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.942659616470337秒
+2024-11-12 18:03:14,017  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.0184664726257324秒
+2024-11-12 18:03:14,030  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.013283014297485352秒
+2024-11-12 18:03:14,987  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.9701838493347168秒
+2024-11-12 18:03:15,003  -----selenium------  INFO  等待元素text,客户,耗时:0.016077041625976562秒
+2024-11-12 18:03:15,476  -----selenium------  INFO  点击元素text,客户,耗时:0.489210844039917秒
+2024-11-12 18:03:35,276  -----selenium------  INFO  启动chrome浏览器,耗时:1.5019304752349854秒
+2024-11-12 18:03:41,159  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:5.882735252380371秒
+2024-11-12 18:03:41,173  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014452219009399414秒
+2024-11-12 18:03:41,229  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07068085670471191秒
+2024-11-12 18:03:42,875  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.6441688537597656秒
+2024-11-12 18:03:42,941  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.7100727558135986秒
+2024-11-12 18:03:42,957  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.016089439392089844秒
+2024-11-12 18:03:43,861  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.9196517467498779秒
+2024-11-12 18:03:43,877  -----selenium------  INFO  等待元素text,客户,耗时:0.016504526138305664秒
+2024-11-12 18:03:44,412  -----selenium------  INFO  点击元素text,客户,耗时:0.5511744022369385秒
+2024-11-12 18:04:00,851  -----selenium------  INFO  启动chrome浏览器,耗时:1.5078792572021484秒
+2024-11-12 18:04:05,839  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:4.987566232681274秒
+2024-11-12 18:04:05,857  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01616978645324707秒
+2024-11-12 18:04:05,927  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0863947868347168秒
+2024-11-12 18:04:07,160  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.233642578125秒
+2024-11-12 18:04:07,224  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.296832799911499秒
+2024-11-12 18:04:07,236  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01203155517578125秒
+2024-11-12 18:04:07,689  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.46544861793518066秒
+2024-11-12 18:04:07,739  -----selenium------  INFO  等待元素text,客户,耗时:0.049894094467163086秒
+2024-11-12 18:04:08,055  -----selenium------  INFO  点击元素text,客户,耗时:0.36557888984680176秒
+2024-11-12 18:04:08,077  -----selenium------  INFO  等待元素text,添加客户,耗时:0.021902084350585938秒
+2024-11-12 18:04:09,200  -----selenium------  INFO  点击元素text,添加客户,耗时:1.145240068435669秒
+2024-11-12 18:09:19,451  -----selenium------  INFO  启动chrome浏览器,耗时:1.5234465599060059秒
+2024-11-12 18:09:27,585  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:8.13403034210205秒
+2024-11-12 18:09:27,611  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.025635957717895508秒
+2024-11-12 18:09:27,669  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.08347320556640625秒
+2024-11-12 18:09:31,594  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:3.925328254699707秒
+2024-11-12 18:09:31,663  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:3.994614839553833秒
+2024-11-12 18:09:31,676  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.012954473495483398秒
+2024-11-12 18:09:33,260  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:1.596492052078247秒
+2024-11-12 18:09:33,279  -----selenium------  INFO  等待元素text,客户,耗时:0.019065141677856445秒
+2024-11-12 18:09:34,143  -----selenium------  INFO  点击元素text,客户,耗时:0.8834099769592285秒
+2024-11-12 18:09:34,166  -----selenium------  INFO  等待元素text,添加客户,耗时:0.022593259811401367秒
+2024-11-12 18:09:41,437  -----selenium------  INFO  点击元素text,添加客户,耗时:7.2934558391571045秒
+2024-11-12 18:09:41,442  -----selenium------  INFO  切换默认框架,耗时:0.005023956298828125秒
+2024-11-12 18:09:41,452  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.009981393814086914秒
+2024-11-12 18:09:41,484  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04188203811645508秒
+2024-11-12 18:09:41,485  -----selenium------  INFO  等待元素id,name,耗时:0.0秒
+2024-11-12 18:09:41,590  -----selenium------  INFO  输入内容id,name,李四,耗时:0.10492324829101562秒
+2024-11-12 18:09:41,599  -----selenium------  INFO  等待元素id,sourceType,耗时:0.009356260299682617秒
+2024-11-12 18:09:51,731  -----selenium------  ERROR  输入内容id,sourceType,market,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:09:51,758  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.012580394744873047秒
+2024-11-12 18:09:51,881  -----selenium------  INFO  输入内容id,sourceNote,备注信息,耗时:0.13602328300476074秒
+2024-11-12 18:09:51,897  -----selenium------  INFO  等待元素id,source,耗时:0.01593947410583496秒
+2024-11-12 18:10:02,037  -----selenium------  ERROR  输入内容id,source,visit,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:10:02,037  -----selenium------  INFO  等待元素id,CSM,耗时:0.0秒
+2024-11-12 18:10:12,122  -----selenium------  ERROR  输入内容id,CSM,demo,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:10:12,134  -----selenium------  INFO  等待元素id,contact,耗时:0.012013673782348633秒
+2024-11-12 18:10:12,246  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.12389230728149414秒
+2024-11-12 18:10:12,263  -----selenium------  INFO  等待元素id,title,耗时:0.016897916793823242秒
+2024-11-12 18:10:12,433  -----selenium------  INFO  输入内容id,title,经理,耗时:0.18705987930297852秒
+2024-11-12 18:10:12,452  -----selenium------  INFO  等待元素id,email,耗时:0.017778635025024414秒
+2024-11-12 18:10:12,715  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.28095531463623047秒
+2024-11-12 18:10:12,732  -----selenium------  INFO  等待元素id,mobile,耗时:0.016567230224609375秒
+2024-11-12 18:10:12,910  -----selenium------  INFO  输入内容id,mobile,13800000000,耗时:0.19460010528564453秒
+2024-11-12 18:10:12,910  -----selenium------  INFO  等待元素id,weixin,耗时:0.0秒
+2024-11-12 18:10:13,045  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.1345062255859375秒
+2024-11-12 18:10:23,069  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:10:33,116  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:10:43,157  -----selenium------  ERROR  点击元素text,保存,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:12:13,223  -----selenium------  INFO  启动chrome浏览器,耗时:1.4288885593414307秒
+2024-11-12 18:12:25,830  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:12.60727334022522秒
+2024-11-12 18:12:25,847  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01691150665283203秒
+2024-11-12 18:12:25,912  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.08232760429382324秒
+2024-11-12 18:12:28,308  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.395458221435547秒
+2024-11-12 18:12:28,382  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.4695682525634766秒
+2024-11-12 18:12:28,403  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.021562576293945312秒
+2024-11-12 18:12:29,889  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:1.5068795680999756秒
+2024-11-12 18:12:29,904  -----selenium------  INFO  等待元素text,客户,耗时:0.015926122665405273秒
+2024-11-12 18:12:30,620  -----selenium------  INFO  点击元素text,客户,耗时:0.7313005924224854秒
+2024-11-12 18:12:30,640  -----selenium------  INFO  等待元素text,添加客户,耗时:0.019807100296020508秒
+2024-11-12 18:12:35,354  -----selenium------  INFO  点击元素text,添加客户,耗时:4.734076261520386秒
+2024-11-12 18:12:35,359  -----selenium------  INFO  切换默认框架,耗时:0.004776477813720703秒
+2024-11-12 18:12:35,369  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01064157485961914秒
+2024-11-12 18:12:35,403  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04395771026611328秒
+2024-11-12 18:12:35,416  -----selenium------  INFO  等待元素id,name,耗时:0.013050079345703125秒
+2024-11-12 18:12:35,496  -----selenium------  INFO  输入内容id,name,李四,耗时:0.09321832656860352秒
+2024-11-12 18:12:35,511  -----selenium------  INFO  等待元素id,sourceType,耗时:0.015153646469116211秒
+2024-11-12 18:12:45,562  -----selenium------  ERROR  点击元素id,sourceType,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7F702F]
+	(No symbol) [0x00007FF66B7E996E]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:12:55,616  -----selenium------  ERROR  点击元素xpath,//li[contains(text(),"市场导流")],错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:12:55,630  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.01296234130859375秒
+2024-11-12 18:12:55,712  -----selenium------  INFO  输入内容id,sourceNote,备注信息,耗时:0.09441709518432617秒
+2024-11-12 18:12:55,728  -----selenium------  INFO  等待元素id,source,耗时:0.01589488983154297秒
+2024-11-12 18:13:05,788  -----selenium------  ERROR  输入内容id,source,visit,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:13:05,800  -----selenium------  INFO  等待元素id,CSM,耗时:0.01211404800415039秒
+2024-11-12 18:13:15,908  -----selenium------  ERROR  输入内容id,CSM,demo,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:13:15,923  -----selenium------  INFO  等待元素id,contact,耗时:0.013650178909301758秒
+2024-11-12 18:13:15,997  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.08790159225463867秒
+2024-11-12 18:13:16,016  -----selenium------  INFO  等待元素id,title,耗时:0.01851201057434082秒
+2024-11-12 18:13:16,095  -----selenium------  INFO  输入内容id,title,经理,耗时:0.09743762016296387秒
+2024-11-12 18:13:16,111  -----selenium------  INFO  等待元素id,email,耗时:0.015009880065917969秒
+2024-11-12 18:13:16,214  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.11849141120910645秒
+2024-11-12 18:13:16,232  -----selenium------  INFO  等待元素id,mobile,耗时:0.018314361572265625秒
+2024-11-12 18:13:16,322  -----selenium------  INFO  输入内容id,mobile,13800000000,耗时:0.10760879516601562秒
+2024-11-12 18:13:16,335  -----selenium------  INFO  等待元素id,weixin,耗时:0.012688398361206055秒
+2024-11-12 18:13:16,430  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.10799074172973633秒
+2024-11-12 18:13:36,990  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:13:47,036  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:13:48,684  -----selenium------  ERROR  点击元素text,保存,错误消息Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B77FA75]
+	(No symbol) [0x00007FF66B822C77]
+	(No symbol) [0x00007FF66B83B351]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:14:16,056  -----selenium------  INFO  启动chrome浏览器,耗时:1.4629335403442383秒
+2024-11-12 18:14:30,705  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:14.649139165878296秒
+2024-11-12 18:14:30,728  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.023082494735717773秒
+2024-11-12 18:14:30,819  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.11364579200744629秒
+2024-11-12 18:14:31,957  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.136683702468872秒
+2024-11-12 18:14:32,041  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.2213873863220215秒
+2024-11-12 18:14:32,097  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.05393028259277344秒
+2024-11-12 18:14:32,477  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.43347978591918945秒
+2024-11-12 18:14:32,499  -----selenium------  INFO  等待元素text,客户,耗时:0.02166914939880371秒
+2024-11-12 18:14:32,873  -----selenium------  INFO  点击元素text,客户,耗时:0.3963143825531006秒
+2024-11-12 18:14:32,918  -----selenium------  INFO  等待元素text,添加客户,耗时:0.04501914978027344秒
+2024-11-12 18:14:34,064  -----selenium------  INFO  点击元素text,添加客户,耗时:1.191053867340088秒
+2024-11-12 18:14:34,072  -----selenium------  INFO  切换默认框架,耗时:0.007424592971801758秒
+2024-11-12 18:14:34,082  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.010090827941894531秒
+2024-11-12 18:14:34,116  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04386401176452637秒
+2024-11-12 18:14:34,127  -----selenium------  INFO  等待元素id,name,耗时:0.009887218475341797秒
+2024-11-12 18:14:34,221  -----selenium------  INFO  输入内容id,name,李四,耗时:0.10330891609191895秒
+2024-11-12 18:16:27,711  -----selenium------  INFO  启动chrome浏览器,耗时:1.5110344886779785秒
+2024-11-12 18:16:32,527  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:4.814682722091675秒
+2024-11-12 18:16:32,541  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014490127563476562秒
+2024-11-12 18:16:32,602  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07552576065063477秒
+2024-11-12 18:16:33,653  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.0451490879058838秒
+2024-11-12 18:16:33,724  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.1203656196594238秒
+2024-11-12 18:16:33,737  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.013025760650634766秒
+2024-11-12 18:16:34,219  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.4947793483734131秒
+2024-11-12 18:16:34,224  -----selenium------  INFO  等待元素text,客户,耗时:0.005438327789306641秒
+2024-11-12 18:16:34,620  -----selenium------  INFO  点击元素text,客户,耗时:0.3998868465423584秒
+2024-11-12 18:16:34,642  -----selenium------  INFO  等待元素text,添加客户,耗时:0.022208690643310547秒
+2024-11-12 18:16:35,808  -----selenium------  INFO  点击元素text,添加客户,耗时:1.1889057159423828秒
+2024-11-12 18:16:35,814  -----selenium------  INFO  切换默认框架,耗时:0.0053632259368896484秒
+2024-11-12 18:16:35,824  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.010020017623901367秒
+2024-11-12 18:16:35,854  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04051327705383301秒
+2024-11-12 18:16:35,867  -----selenium------  INFO  等待元素id,name,耗时:0.012428045272827148秒
+2024-11-12 18:16:35,950  -----selenium------  INFO  输入内容id,name,李四,耗时:0.09577393531799316秒
+2024-11-12 18:16:51,264  -----selenium------  INFO  启动chrome浏览器,耗时:1.4399750232696533秒
+2024-11-12 18:16:57,038  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:5.773360252380371秒
+2024-11-12 18:16:57,055  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01584315299987793秒
+2024-11-12 18:16:57,111  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07195448875427246秒
+2024-11-12 18:16:57,977  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:0.8649516105651855秒
+2024-11-12 18:16:58,091  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:0.9791064262390137秒
+2024-11-12 18:16:58,115  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.02337336540222168秒
+2024-11-12 18:16:58,506  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.4142441749572754秒
+2024-11-12 18:16:58,524  -----selenium------  INFO  等待元素text,客户,耗时:0.017934799194335938秒
+2024-11-12 18:16:58,895  -----selenium------  INFO  点击元素text,客户,耗时:0.3890268802642822秒
+2024-11-12 18:16:58,921  -----selenium------  INFO  等待元素text,添加客户,耗时:0.025538921356201172秒
+2024-11-12 18:17:00,015  -----selenium------  INFO  点击元素text,添加客户,耗时:1.119565725326538秒
+2024-11-12 18:17:00,020  -----selenium------  INFO  切换默认框架,耗时:0.004746675491333008秒
+2024-11-12 18:17:00,028  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.008228540420532227秒
+2024-11-12 18:17:00,059  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.039845943450927734秒
+2024-11-12 18:17:00,072  -----selenium------  INFO  等待元素id,name,耗时:0.01240229606628418秒
+2024-11-12 18:17:00,161  -----selenium------  INFO  输入内容id,name,李四,耗时:0.10133647918701172秒
+2024-11-12 18:17:24,886  -----selenium------  INFO  启动chrome浏览器,耗时:1.4491147994995117秒
+2024-11-12 18:17:34,263  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:9.377793312072754秒
+2024-11-12 18:17:34,278  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.015063762664794922秒
+2024-11-12 18:17:34,335  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0719447135925293秒
+2024-11-12 18:17:36,452  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.1166882514953613秒
+2024-11-12 18:17:36,521  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.185150623321533秒
+2024-11-12 18:17:36,536  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.015299558639526367秒
+2024-11-12 18:17:37,334  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.8132333755493164秒
+2024-11-12 18:17:37,353  -----selenium------  INFO  等待元素text,客户,耗时:0.01904749870300293秒
+2024-11-12 18:17:37,757  -----selenium------  INFO  点击元素text,客户,耗时:0.4230344295501709秒
+2024-11-12 18:17:37,778  -----selenium------  INFO  等待元素text,添加客户,耗时:0.02040863037109375秒
+2024-11-12 18:17:40,112  -----selenium------  INFO  点击元素text,添加客户,耗时:2.3541030883789062秒
+2024-11-12 18:17:40,115  -----selenium------  INFO  切换默认框架,耗时:0.0031125545501708984秒
+2024-11-12 18:17:40,124  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.00948953628540039秒
+2024-11-12 18:17:40,158  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04309391975402832秒
+2024-11-12 18:17:40,174  -----selenium------  INFO  等待元素id,name,耗时:0.012897253036499023秒
+2024-11-12 18:17:40,268  -----selenium------  INFO  输入内容id,name,李四,耗时:0.10703802108764648秒
+2024-11-12 18:17:40,283  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/div[2]/input,耗时:0.012094974517822266秒
+2024-11-12 18:17:44,859  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/div[2]/input,耗时:4.588507413864136秒
+2024-11-12 18:17:44,868  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.009160995483398438秒
+2024-11-12 18:17:44,975  -----selenium------  INFO  输入内容id,sourceNote,备注信息,耗时:0.11573553085327148秒
+2024-11-12 18:17:44,987  -----selenium------  INFO  等待元素id,source,耗时:0.012546539306640625秒
+2024-11-12 18:17:55,139  -----selenium------  ERROR  输入内容id,source,visit,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:17:55,157  -----selenium------  INFO  等待元素id,CSM,耗时:0.013373374938964844秒
+2024-11-12 18:18:05,247  -----selenium------  ERROR  输入内容id,CSM,demo,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:18:05,263  -----selenium------  INFO  等待元素id,contact,耗时:0.014744758605957031秒
+2024-11-12 18:18:05,363  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.11423802375793457秒
+2024-11-12 18:18:05,390  -----selenium------  INFO  等待元素id,title,耗时:0.027573347091674805秒
+2024-11-12 18:18:05,491  -----selenium------  INFO  输入内容id,title,经理,耗时:0.12796616554260254秒
+2024-11-12 18:18:05,501  -----selenium------  INFO  等待元素id,email,耗时:0.010001182556152344秒
+2024-11-12 18:18:05,648  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.1572554111480713秒
+2024-11-12 18:18:05,671  -----selenium------  INFO  等待元素id,mobile,耗时:0.022485017776489258秒
+2024-11-12 18:18:05,837  -----selenium------  INFO  输入内容id,mobile,13800000000,耗时:0.18787217140197754秒
+2024-11-12 18:18:05,857  -----selenium------  INFO  等待元素id,weixin,耗时:0.02050328254699707秒
+2024-11-12 18:18:06,019  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.18184590339660645秒
+2024-11-12 18:18:16,044  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:18:26,083  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:18:36,173  -----selenium------  ERROR  点击元素text,保存,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:19:34,561  -----selenium------  INFO  启动chrome浏览器,耗时:1.4740393161773682秒
+2024-11-12 18:19:51,794  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:17.232067584991455秒
+2024-11-12 18:19:51,812  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.017702817916870117秒
+2024-11-12 18:19:51,871  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07689571380615234秒
+2024-11-12 18:19:54,920  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:3.0475494861602783秒
+2024-11-12 18:19:54,988  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:3.1152865886688232秒
+2024-11-12 18:19:55,002  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.014226198196411133秒
+2024-11-12 18:19:56,105  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:1.1175436973571777秒
+2024-11-12 18:19:56,121  -----selenium------  INFO  等待元素text,客户,耗时:0.016121864318847656秒
+2024-11-12 18:19:56,818  -----selenium------  INFO  点击元素text,客户,耗时:0.7128736972808838秒
+2024-11-12 18:19:56,837  -----selenium------  INFO  等待元素text,添加客户,耗时:0.018563270568847656秒
+2024-11-12 18:20:01,413  -----selenium------  INFO  点击元素text,添加客户,耗时:4.594616889953613秒
+2024-11-12 18:20:01,413  -----selenium------  INFO  切换默认框架,耗时:0.0秒
+2024-11-12 18:20:01,431  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.018358945846557617秒
+2024-11-12 18:20:01,459  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04632425308227539秒
+2024-11-12 18:20:01,462  -----selenium------  INFO  等待元素id,name,耗时:0.002971172332763672秒
+2024-11-12 18:20:01,572  -----selenium------  INFO  输入内容id,name,李四,耗时:0.11301398277282715秒
+2024-11-12 18:20:01,589  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.016887903213500977秒
+2024-11-12 18:20:01,705  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.13317179679870605秒
+2024-11-12 18:20:01,715  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.008491754531860352秒
+2024-11-12 18:20:01,803  -----selenium------  INFO  输入内容id,sourceNote,备注信息,耗时:0.0962674617767334秒
+2024-11-12 18:20:01,818  -----selenium------  INFO  等待元素id,source,耗时:0.014884471893310547秒
+2024-11-12 18:20:11,896  -----selenium------  ERROR  输入内容id,source,visit,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:20:11,919  -----selenium------  INFO  等待元素id,CSM,耗时:0.023356199264526367秒
+2024-11-12 18:20:40,226  -----selenium------  INFO  启动chrome浏览器,耗时:1.4597513675689697秒
+2024-11-12 18:20:46,666  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:6.440033435821533秒
+2024-11-12 18:20:46,683  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01644587516784668秒
+2024-11-12 18:20:46,746  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07932257652282715秒
+2024-11-12 18:20:47,863  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.1170470714569092秒
+2024-11-12 18:20:47,971  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.2258672714233398秒
+2024-11-12 18:20:47,994  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.022281885147094727秒
+2024-11-12 18:20:48,327  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.35532236099243164秒
+2024-11-12 18:20:48,347  -----selenium------  INFO  等待元素text,客户,耗时:0.019875288009643555秒
+2024-11-12 18:20:48,731  -----selenium------  INFO  点击元素text,客户,耗时:0.40395498275756836秒
+2024-11-12 18:20:48,757  -----selenium------  INFO  等待元素text,添加客户,耗时:0.026532411575317383秒
+2024-11-12 18:20:49,879  -----selenium------  INFO  点击元素text,添加客户,耗时:1.1478958129882812秒
+2024-11-12 18:20:49,882  -----selenium------  INFO  切换默认框架,耗时:0.0030188560485839844秒
+2024-11-12 18:20:49,895  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.012014627456665039秒
+2024-11-12 18:20:49,928  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.0449671745300293秒
+2024-11-12 18:20:49,937  -----selenium------  INFO  等待元素id,name,耗时:0.008448600769042969秒
+2024-11-12 18:20:50,028  -----selenium------  INFO  输入内容id,name,李四,耗时:0.09920215606689453秒
+2024-11-12 18:20:50,043  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.015316486358642578秒
+2024-11-12 18:20:50,162  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.13434338569641113秒
+2024-11-12 18:20:50,176  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/div[2]/input,耗时:0.013952493667602539秒
+2024-11-12 18:20:50,330  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/div[2]/input,耗时:0.16737866401672363秒
+2024-11-12 18:20:50,341  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.011196136474609375秒
+2024-11-12 18:20:50,428  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.09832453727722168秒
+2024-11-12 18:20:50,443  -----selenium------  INFO  等待元素id,source,耗时:0.01500701904296875秒
+2024-11-12 18:21:00,594  -----selenium------  ERROR  输入内容id,source,visit,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:21:00,611  -----selenium------  INFO  等待元素id,CSM,耗时:0.01566028594970703秒
+2024-11-12 18:21:10,721  -----selenium------  ERROR  输入内容id,CSM,demo,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:21:10,741  -----selenium------  INFO  等待元素id,contact,耗时:0.019912004470825195秒
+2024-11-12 18:21:10,811  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.08961725234985352秒
+2024-11-12 18:21:10,824  -----selenium------  INFO  等待元素id,title,耗时:0.013791084289550781秒
+2024-11-12 18:21:10,898  -----selenium------  INFO  输入内容id,title,经理,耗时:0.08755636215209961秒
+2024-11-12 18:21:10,912  -----selenium------  INFO  等待元素id,email,耗时:0.014017581939697266秒
+2024-11-12 18:21:11,010  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.11152029037475586秒
+2024-11-12 18:21:11,023  -----selenium------  INFO  等待元素id,mobile,耗时:0.011983394622802734秒
+2024-11-12 18:21:11,110  -----selenium------  INFO  输入内容id,mobile,13800000000,耗时:0.09897136688232422秒
+2024-11-12 18:21:11,124  -----selenium------  INFO  等待元素id,weixin,耗时:0.014633417129516602秒
+2024-11-12 18:21:11,211  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.1012887954711914秒
+2024-11-12 18:21:21,230  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:21:31,259  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:21:41,299  -----selenium------  ERROR  点击元素text,保存,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:22:16,072  -----selenium------  INFO  启动chrome浏览器,耗时:1.4682986736297607秒
+2024-11-12 18:22:20,932  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:4.858611345291138秒
+2024-11-12 18:22:20,954  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.02191901206970215秒
+2024-11-12 18:22:21,026  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.09075331687927246秒
+2024-11-12 18:22:22,344  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.318143367767334秒
+2024-11-12 18:22:22,418  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.3921897411346436秒
+2024-11-12 18:22:22,435  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.016191959381103516秒
+2024-11-12 18:22:23,032  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.6140263080596924秒
+2024-11-12 18:22:23,056  -----selenium------  INFO  等待元素text,客户,耗时:0.024161338806152344秒
+2024-11-12 18:22:23,527  -----selenium------  INFO  点击元素text,客户,耗时:0.4945199489593506秒
+2024-11-12 18:22:23,549  -----selenium------  INFO  等待元素text,添加客户,耗时:0.0227358341217041秒
+2024-11-12 18:22:26,004  -----selenium------  INFO  点击元素text,添加客户,耗时:2.4774889945983887秒
+2024-11-12 18:22:26,008  -----selenium------  INFO  切换默认框架,耗时:0.003196239471435547秒
+2024-11-12 18:22:26,020  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.011404991149902344秒
+2024-11-12 18:22:26,056  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04747200012207031秒
+2024-11-12 18:22:26,069  -----selenium------  INFO  等待元素id,name,耗时:0.013666152954101562秒
+2024-11-12 18:22:26,182  -----selenium------  INFO  输入内容id,name,李四,耗时:0.12609362602233887秒
+2024-11-12 18:22:26,195  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.013324975967407227秒
+2024-11-12 18:22:26,318  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.13585877418518066秒
+2024-11-12 18:22:36,357  -----selenium------  ERROR  点击元素text,市场导流,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:22:36,371  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.014104127883911133秒
+2024-11-12 18:22:36,472  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.11557936668395996秒
+2024-11-12 18:22:46,511  -----selenium------  ERROR  点击元素text,拜访,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:22:46,522  -----selenium------  INFO  等待元素id,CSM,耗时:0.010718822479248047秒
+2024-11-12 18:22:56,695  -----selenium------  ERROR  输入内容id,CSM,demo,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:22:56,710  -----selenium------  INFO  等待元素id,contact,耗时:0.007771015167236328秒
+2024-11-12 18:22:56,806  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.10301685333251953秒
+2024-11-12 18:22:56,809  -----selenium------  INFO  等待元素id,title,耗时:0.0035614967346191406秒
+2024-11-12 18:22:56,897  -----selenium------  INFO  输入内容id,title,经理,耗时:0.09137272834777832秒
+2024-11-12 18:22:56,908  -----selenium------  INFO  等待元素id,email,耗时:0.01140737533569336秒
+2024-11-12 18:22:57,003  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.10589456558227539秒
+2024-11-12 18:22:57,013  -----selenium------  INFO  等待元素id,mobile,耗时:0.0105743408203125秒
+2024-11-12 18:22:57,090  -----selenium------  INFO  输入内容id,mobile,13800000000,耗时:0.08754515647888184秒
+2024-11-12 18:22:57,102  -----selenium------  INFO  等待元素id,weixin,耗时:0.011959552764892578秒
+2024-11-12 18:22:57,186  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.09519290924072266秒
+2024-11-12 18:23:07,220  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:23:17,240  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:23:27,279  -----selenium------  ERROR  点击元素text,保存,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:23:40,236  -----selenium------  INFO  启动chrome浏览器,耗时:1.4871954917907715秒
+2024-11-12 18:23:43,437  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:3.198680877685547秒
+2024-11-12 18:23:43,459  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.020758390426635742秒
+2024-11-12 18:23:43,541  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.10403728485107422秒
+2024-11-12 18:23:45,251  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.708573818206787秒
+2024-11-12 18:23:45,341  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.7988002300262451秒
+2024-11-12 18:23:45,355  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01412510871887207秒
+2024-11-12 18:23:45,867  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.5263392925262451秒
+2024-11-12 18:23:45,885  -----selenium------  INFO  等待元素text,客户,耗时:0.01753854751586914秒
+2024-11-12 18:23:46,301  -----selenium------  INFO  点击元素text,客户,耗时:0.4333827495574951秒
+2024-11-12 18:23:46,326  -----selenium------  INFO  等待元素text,添加客户,耗时:0.025665998458862305秒
+2024-11-12 18:23:48,558  -----selenium------  INFO  点击元素text,添加客户,耗时:2.257619857788086秒
+2024-11-12 18:23:48,563  -----selenium------  INFO  切换默认框架,耗时:0.004267692565917969秒
+2024-11-12 18:23:48,573  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.010111331939697266秒
+2024-11-12 18:23:48,606  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04302477836608887秒
+2024-11-12 18:23:48,614  -----selenium------  INFO  等待元素id,name,耗时:0.007427215576171875秒
+2024-11-12 18:23:48,700  -----selenium------  INFO  输入内容id,name,李四,耗时:0.09297060966491699秒
+2024-11-12 18:23:48,721  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.02088618278503418秒
+2024-11-12 18:23:48,839  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.1396036148071289秒
+2024-11-12 18:23:48,851  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.011836767196655273秒
+2024-11-12 18:23:48,968  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.128739595413208秒
+2024-11-12 18:23:48,985  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.017447471618652344秒
+2024-11-12 18:23:49,065  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.09698820114135742秒
+2024-11-12 18:23:59,074  -----selenium------  ERROR  点击元素text,拜访,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:23:59,085  -----selenium------  INFO  等待元素id,CSM,耗时:0.010837554931640625秒
+2024-11-12 18:24:09,170  -----selenium------  ERROR  输入内容id,CSM,demo,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:24:09,183  -----selenium------  INFO  等待元素id,contact,耗时:0.009046316146850586秒
+2024-11-12 18:24:09,280  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.10611724853515625秒
+2024-11-12 18:24:09,289  -----selenium------  INFO  等待元素id,title,耗时:0.009226799011230469秒
+2024-11-12 18:24:09,402  -----selenium------  INFO  输入内容id,title,经理,耗时:0.12207603454589844秒
+2024-11-12 18:24:09,420  -----selenium------  INFO  等待元素id,email,耗时:0.017798423767089844秒
+2024-11-12 18:24:09,532  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.12967729568481445秒
+2024-11-12 18:24:09,547  -----selenium------  INFO  等待元素id,mobile,耗时:0.014255762100219727秒
+2024-11-12 18:24:09,654  -----selenium------  INFO  输入内容id,mobile,13800000000,耗时:0.12088727951049805秒
+2024-11-12 18:24:09,667  -----selenium------  INFO  等待元素id,weixin,耗时:0.011727094650268555秒
+2024-11-12 18:24:09,770  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.11521029472351074秒
+2024-11-12 18:24:20,056  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B77FA75]
+	(No symbol) [0x00007FF66B822C77]
+	(No symbol) [0x00007FF66B83B351]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:24:20,056  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B77FA75]
+	(No symbol) [0x00007FF66B822C77]
+	(No symbol) [0x00007FF66B83B351]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:24:20,056  -----selenium------  ERROR  点击元素text,保存,错误消息Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B77FA75]
+	(No symbol) [0x00007FF66B822C77]
+	(No symbol) [0x00007FF66B83B351]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:28:09,568  -----selenium------  INFO  启动chrome浏览器,耗时:1.4697265625秒
+2024-11-12 18:28:15,361  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:5.791992902755737秒
+2024-11-12 18:28:15,376  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014092683792114258秒
+2024-11-12 18:28:15,434  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0715186595916748秒
+2024-11-12 18:28:16,523  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.0877907276153564秒
+2024-11-12 18:28:16,590  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.1553046703338623秒
+2024-11-12 18:28:16,604  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.013789176940917969秒
+2024-11-12 18:28:17,409  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.8191730976104736秒
+2024-11-12 18:28:17,427  -----selenium------  INFO  等待元素text,客户,耗时:0.017329692840576172秒
+2024-11-12 18:28:17,869  -----selenium------  INFO  点击元素text,客户,耗时:0.46003055572509766秒
+2024-11-12 18:28:17,890  -----selenium------  INFO  等待元素text,添加客户,耗时:0.020682573318481445秒
+2024-11-12 18:28:19,847  -----selenium------  INFO  点击元素text,添加客户,耗时:1.9769010543823242秒
+2024-11-12 18:28:19,852  -----selenium------  INFO  切换默认框架,耗时:0.004946470260620117秒
+2024-11-12 18:28:19,861  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.009574413299560547秒
+2024-11-12 18:28:19,896  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04429125785827637秒
+2024-11-12 18:28:19,908  -----selenium------  INFO  等待元素id,name,耗时:0.011910676956176758秒
+2024-11-12 18:28:20,002  -----selenium------  INFO  输入内容id,name,李四,耗时:0.10550141334533691秒
+2024-11-12 18:28:20,013  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.011825084686279297秒
+2024-11-12 18:28:20,123  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.12118196487426758秒
+2024-11-12 18:28:20,136  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.01323246955871582秒
+2024-11-12 18:28:20,252  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.12974905967712402秒
+2024-11-12 18:28:20,267  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.013327598571777344秒
+2024-11-12 18:28:20,362  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.10824203491210938秒
+2024-11-12 18:28:20,380  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/div[2]/input,耗时:0.01840353012084961秒
+2024-11-12 18:28:29,997  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/div[2]/input,耗时:9.635128736495972秒
+2024-11-12 18:28:30,014  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.017597436904907227秒
+2024-11-12 18:28:30,511  -----selenium------  ERROR  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],错误消息Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=130.0.6723.117); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7AC2E2]
+	(No symbol) [0x00007FF66B7AE637]
+	(No symbol) [0x00007FF66B7AE6F0]
+	(No symbol) [0x00007FF66B7F8004]
+	(No symbol) [0x00007FF66B7F6F17]
+	(No symbol) [0x00007FF66B7E996E]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:28:30,524  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/div[2]/input,耗时:0.012636899948120117秒
+2024-11-12 18:28:39,076  -----selenium------  ERROR  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/div[2]/input,错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 18:30:04,732  -----selenium------  INFO  启动chrome浏览器,耗时:1.5132660865783691秒
+2024-11-12 18:30:13,474  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:8.73906946182251秒
+2024-11-12 18:30:13,489  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014931917190551758秒
+2024-11-12 18:30:13,549  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07542037963867188秒
+2024-11-12 18:30:15,864  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.3148858547210693秒
+2024-11-12 18:30:15,930  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.380502939224243秒
+2024-11-12 18:30:15,944  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01389002799987793秒
+2024-11-12 18:30:16,972  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:1.04190993309021秒
+2024-11-12 18:30:16,992  -----selenium------  INFO  等待元素text,客户,耗时:0.020127058029174805秒
+2024-11-12 18:30:17,820  -----selenium------  INFO  点击元素text,客户,耗时:0.8484323024749756秒
+2024-11-12 18:30:17,846  -----selenium------  INFO  等待元素text,添加客户,耗时:0.025032758712768555秒
+2024-11-12 18:30:23,522  -----selenium------  INFO  点击元素text,添加客户,耗时:5.7007622718811035秒
+2024-11-12 18:30:23,526  -----selenium------  INFO  切换默认框架,耗时:0.004145383834838867秒
+2024-11-12 18:30:23,537  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.011011123657226562秒
+2024-11-12 18:30:23,566  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.03980278968811035秒
+2024-11-12 18:30:23,582  -----selenium------  INFO  等待元素id,name,耗时:0.015679121017456055秒
+2024-11-12 18:30:23,685  -----selenium------  INFO  输入内容id,name,李四,耗时:0.11850714683532715秒
+2024-11-12 18:30:23,697  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.011696815490722656秒
+2024-11-12 18:30:23,807  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.12262153625488281秒
+2024-11-12 18:30:23,816  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.009113311767578125秒
+2024-11-12 18:30:23,929  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.12217426300048828秒
+2024-11-12 18:30:23,945  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.01579737663269043秒
+2024-11-12 18:30:24,030  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.1010289192199707秒
+2024-11-12 18:30:24,036  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.004498958587646484秒
+2024-11-12 18:30:24,152  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.12036561965942383秒
+2024-11-12 18:30:24,164  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.012040853500366211秒
+2024-11-12 18:30:24,273  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.12070345878601074秒
+2024-11-12 18:30:24,286  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.012859106063842773秒
+2024-11-12 18:30:24,388  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.11495804786682129秒
+2024-11-12 18:30:24,406  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.018107175827026367秒
+2024-11-12 18:30:24,521  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.1328134536743164秒
+2024-11-12 18:30:24,540  -----selenium------  INFO  等待元素id,contact,耗时:0.01745152473449707秒
+2024-11-12 18:30:24,619  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.09856247901916504秒
+2024-11-12 18:30:24,630  -----selenium------  INFO  等待元素id,title,耗时:0.010907888412475586秒
+2024-11-12 18:30:24,718  -----selenium------  INFO  输入内容id,title,经理,耗时:0.0985260009765625秒
+2024-11-12 18:30:24,733  -----selenium------  INFO  等待元素id,email,耗时:0.013319015502929688秒
+2024-11-12 18:30:24,869  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.15079426765441895秒
+2024-11-12 18:30:24,873  -----selenium------  INFO  等待元素id,mobile,耗时:0.0044705867767333984秒
+2024-11-12 18:30:24,981  -----selenium------  INFO  输入内容id,mobile,13849025116,耗时:0.11193418502807617秒
+2024-11-12 18:30:24,997  -----selenium------  INFO  等待元素id,weixin,耗时:0.009883642196655273秒
+2024-11-12 18:30:25,119  -----selenium------  INFO  输入内容id,weixin,zhangsan_weixin,耗时:0.1320199966430664秒
+2024-11-12 18:30:35,159  -----selenium------  ERROR  输入内容id,address[title],公司地址,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:30:45,198  -----selenium------  ERROR  输入内容id,address[location],具体位置,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 18:30:46,311  -----selenium------  ERROR  点击元素text,保存,错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 18:41:32,250  -----selenium------  INFO  启动chrome浏览器,耗时:1.4654908180236816秒
+2024-11-12 18:41:35,571  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:3.3216402530670166秒
+2024-11-12 18:41:35,584  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.012986898422241211秒
+2024-11-12 18:41:35,643  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0718390941619873秒
+2024-11-12 18:41:36,372  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:0.7285294532775879秒
+2024-11-12 18:41:36,439  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:0.7959632873535156秒
+2024-11-12 18:41:36,458  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01767897605895996秒
+2024-11-12 18:41:36,868  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.42743849754333496秒
+2024-11-12 18:41:36,884  -----selenium------  INFO  等待元素text,客户,耗时:0.01580333709716797秒
+2024-11-12 18:41:37,434  -----selenium------  INFO  点击元素text,客户,耗时:0.5654458999633789秒
+2024-11-12 18:41:37,467  -----selenium------  INFO  等待元素text,添加客户,耗时:0.03228878974914551秒
+2024-11-12 18:41:38,678  -----selenium------  INFO  点击元素text,添加客户,耗时:1.243530511856079秒
+2024-11-12 18:41:38,685  -----selenium------  INFO  切换默认框架,耗时:0.005118608474731445秒
+2024-11-12 18:41:38,695  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.009624719619750977秒
+2024-11-12 18:41:38,727  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04236483573913574秒
+2024-11-12 18:41:38,737  -----selenium------  INFO  等待元素id,name,耗时:0.010204315185546875秒
+2024-11-12 18:41:38,838  -----selenium------  INFO  输入内容id,name,李四,耗时:0.11078810691833496秒
+2024-11-12 18:41:38,852  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.012948036193847656秒
+2024-11-12 18:41:38,959  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.12029623985290527秒
+2024-11-12 18:41:38,971  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.012473821640014648秒
+2024-11-12 18:41:39,076  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.11740946769714355秒
+2024-11-12 18:41:39,085  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.008132457733154297秒
+2024-11-12 18:41:39,167  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.09047603607177734秒
+2024-11-12 18:41:39,184  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.01709604263305664秒
+2024-11-12 18:41:39,292  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.12479186058044434秒
+2024-11-12 18:41:39,300  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.008124828338623047秒
+2024-11-12 18:41:39,407  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.11514854431152344秒
+2024-11-12 18:41:39,433  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.026090383529663086秒
+2024-11-12 18:41:39,540  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.13335132598876953秒
+2024-11-12 18:41:39,552  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.011461496353149414秒
+2024-11-12 18:41:39,655  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.11522388458251953秒
+2024-11-12 18:41:39,684  -----selenium------  INFO  等待元素id,contact,耗时:0.028632164001464844秒
+2024-11-12 18:41:39,766  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.11041927337646484秒
+2024-11-12 18:41:39,770  -----selenium------  INFO  等待元素id,title,耗时:0.003953456878662109秒
+2024-11-12 18:41:39,866  -----selenium------  INFO  输入内容id,title,经理,耗时:0.09997940063476562秒
+2024-11-12 18:41:39,871  -----selenium------  INFO  等待元素id,email,耗时:0.003795623779296875秒
+2024-11-12 18:41:40,015  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.14746499061584473秒
+2024-11-12 18:41:40,015  -----selenium------  INFO  等待元素id,mobile,耗时:0.0秒
+2024-11-12 18:41:40,131  -----selenium------  INFO  输入内容id,mobile,13868639076,耗时:0.11697006225585938秒
+2024-11-12 18:41:40,151  -----selenium------  INFO  等待元素id,weixin,耗时:0.019571542739868164秒
+2024-11-12 18:41:40,251  -----selenium------  INFO  输入内容id,weixin,z3084699953,耗时:0.11969470977783203秒
+2024-11-12 18:41:40,265  -----selenium------  INFO  等待元素id,phone,耗时:0.013709068298339844秒
+2024-11-12 18:41:40,371  -----selenium------  INFO  输入内容id,phone,145468279,耗时:0.11992645263671875秒
+2024-11-12 18:41:40,385  -----selenium------  INFO  等待元素id,qq,耗时:0.013419151306152344秒
+2024-11-12 18:41:40,490  -----selenium------  INFO  输入内容id,qq,388457693,耗时:0.118682861328125秒
+2024-11-12 18:41:40,503  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/a/span,耗时:0.011307477951049805秒
+2024-11-12 18:41:40,607  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/a/span,耗时:0.11557292938232422秒
+2024-11-12 18:41:40,615  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/div/ul/li[3],耗时:0.005499362945556641秒
+2024-11-12 18:41:40,734  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/div/ul/li[3],耗时:0.12389755249023438秒
+2024-11-12 18:41:40,749  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/a/span,耗时:0.014892578125秒
+2024-11-12 18:41:40,846  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/a/span,耗时:0.11255931854248047秒
+2024-11-12 18:41:40,851  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/div/ul/li[1],耗时:0.005023002624511719秒
+2024-11-12 18:41:40,979  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/div/ul/li[1],耗时:0.13309860229492188秒
+2024-11-12 18:41:40,982  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/a/span,耗时:0.0019652843475341797秒
+2024-11-12 18:41:41,092  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/a/span,耗时:0.11226868629455566秒
+2024-11-12 18:41:41,098  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/div/ul/li[1],耗时:0.00582432746887207秒
+2024-11-12 18:41:41,204  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/div/ul/li[1],耗时:0.11212754249572754秒
+2024-11-12 18:41:41,215  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/a/span,耗时:0.010818004608154297秒
+2024-11-12 18:41:41,322  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/a/span,耗时:0.1180562973022461秒
+2024-11-12 18:41:41,331  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/div/ul/li[7],耗时:0.008256673812866211秒
+2024-11-12 18:41:41,434  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/div/ul/li[7],耗时:0.11192607879638672秒
+2024-11-12 18:41:46,945  -----selenium------  ERROR  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 18:42:32,300  -----selenium------  INFO  启动chrome浏览器,耗时:1.512833833694458秒
+2024-11-12 18:42:46,070  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:13.769843101501465秒
+2024-11-12 18:42:46,090  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.019632339477539062秒
+2024-11-12 18:42:46,150  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07993412017822266秒
+2024-11-12 18:42:48,106  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.9547984600067139秒
+2024-11-12 18:42:48,170  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:2.019030809402466秒
+2024-11-12 18:42:48,184  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.014226675033569336秒
+2024-11-12 18:42:48,928  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.7582969665527344秒
+2024-11-12 18:42:48,946  -----selenium------  INFO  等待元素text,客户,耗时:0.017655611038208008秒
+2024-11-12 18:42:49,406  -----selenium------  INFO  点击元素text,客户,耗时:0.47723984718322754秒
+2024-11-12 18:42:49,426  -----selenium------  INFO  等待元素text,添加客户,耗时:0.020445823669433594秒
+2024-11-12 18:42:53,194  -----selenium------  INFO  点击元素text,添加客户,耗时:3.788037061691284秒
+2024-11-12 18:42:53,199  -----selenium------  INFO  切换默认框架,耗时:0.005323648452758789秒
+2024-11-12 18:42:53,209  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01017308235168457秒
+2024-11-12 18:42:53,242  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04271554946899414秒
+2024-11-12 18:42:53,248  -----selenium------  INFO  等待元素id,name,耗时:0.0067212581634521484秒
+2024-11-12 18:42:53,346  -----selenium------  INFO  输入内容id,name,李四,耗时:0.10442924499511719秒
+2024-11-12 18:42:53,360  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.01255035400390625秒
+2024-11-12 18:42:53,470  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.1232762336730957秒
+2024-11-12 18:42:53,478  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.007669687271118164秒
+2024-11-12 18:42:53,596  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.12532734870910645秒
+2024-11-12 18:42:53,611  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.01508784294128418秒
+2024-11-12 18:42:53,698  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.10225152969360352秒
+2024-11-12 18:42:53,711  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.011729955673217773秒
+2024-11-12 18:42:53,812  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.11303925514221191秒
+2024-11-12 18:42:53,828  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.015834569931030273秒
+2024-11-12 18:42:53,933  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.12072467803955078秒
+2024-11-12 18:42:53,946  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.013685941696166992秒
+2024-11-12 18:42:54,060  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.12694764137268066秒
+2024-11-12 18:42:54,079  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.014232158660888672秒
+2024-11-12 18:42:54,181  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.11699700355529785秒
+2024-11-12 18:42:54,195  -----selenium------  INFO  等待元素id,contact,耗时:0.013303279876708984秒
+2024-11-12 18:42:54,276  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.0944516658782959秒
+2024-11-12 18:42:54,288  -----selenium------  INFO  等待元素id,title,耗时:0.011219263076782227秒
+2024-11-12 18:42:54,374  -----selenium------  INFO  输入内容id,title,经理,耗时:0.09733390808105469秒
+2024-11-12 18:42:54,384  -----selenium------  INFO  等待元素id,email,耗时:0.010023117065429688秒
+2024-11-12 18:42:54,520  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.14606857299804688秒
+2024-11-12 18:42:54,532  -----selenium------  INFO  等待元素id,mobile,耗时:0.012358903884887695秒
+2024-11-12 18:42:54,631  -----selenium------  INFO  输入内容id,mobile,13876001665,耗时:0.1105344295501709秒
+2024-11-12 18:42:54,638  -----selenium------  INFO  等待元素id,weixin,耗时:0.006354570388793945秒
+2024-11-12 18:42:54,746  -----selenium------  INFO  输入内容id,weixin,z3095307726,耗时:0.11457395553588867秒
+2024-11-12 18:42:54,759  -----selenium------  INFO  等待元素id,phone,耗时:0.01256108283996582秒
+2024-11-12 18:42:54,860  -----selenium------  INFO  输入内容id,phone,141784663,耗时:0.1134638786315918秒
+2024-11-12 18:42:54,874  -----selenium------  INFO  等待元素id,qq,耗时:0.01279139518737793秒
+2024-11-12 18:42:54,967  -----selenium------  INFO  输入内容id,qq,352741005,耗时:0.10616016387939453秒
+2024-11-12 18:42:54,979  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/a/span,耗时:0.012542963027954102秒
+2024-11-12 18:42:55,095  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/a/span,耗时:0.1277484893798828秒
+2024-11-12 18:42:55,109  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/div/ul/li[3],耗时:0.012811899185180664秒
+2024-11-12 18:42:55,210  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/div/ul/li[3],耗时:0.11450457572937012秒
+2024-11-12 18:42:55,226  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/a/span,耗时:0.014961004257202148秒
+2024-11-12 18:42:55,325  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/a/span,耗时:0.11425423622131348秒
+2024-11-12 18:42:55,339  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/div/ul/li[1],耗时:0.013348102569580078秒
+2024-11-12 18:42:55,448  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/div/ul/li[1],耗时:0.12285113334655762秒
+2024-11-12 18:42:55,454  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/a/span,耗时:0.005048274993896484秒
+2024-11-12 18:42:55,570  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/a/span,耗时:0.12028932571411133秒
+2024-11-12 18:42:55,581  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/div/ul/li[1],耗时:0.010033369064331055秒
+2024-11-12 18:42:55,688  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/div/ul/li[1],耗时:0.11679387092590332秒
+2024-11-12 18:42:55,693  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/a/span,耗时:0.0056569576263427734秒
+2024-11-12 18:42:55,814  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/a/span,耗时:0.12600374221801758秒
+2024-11-12 18:42:55,825  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/div/ul/li[7],耗时:0.011558294296264648秒
+2024-11-12 18:42:55,924  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/div/ul/li[7],耗时:0.1100313663482666秒
+2024-11-12 18:42:55,936  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/a/span,耗时:0.01179361343383789秒
+2024-11-12 18:42:56,042  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/a/span,耗时:0.11786246299743652秒
+2024-11-12 18:42:56,053  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],耗时:0.011060237884521484秒
+2024-11-12 18:42:56,152  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],耗时:0.11033177375793457秒
+2024-11-12 18:42:56,152  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],耗时:0.0秒
+2024-11-12 18:43:01,710  -----selenium------  ERROR  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 18:43:51,554  -----selenium------  INFO  启动chrome浏览器,耗时:1.4792053699493408秒
+2024-11-12 18:43:58,036  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:6.480056285858154秒
+2024-11-12 18:43:58,051  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013646125793457031秒
+2024-11-12 18:43:58,109  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07140231132507324秒
+2024-11-12 18:43:59,821  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.711745023727417秒
+2024-11-12 18:43:59,889  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div[3]/div[1]/ul[1]/li[2]/button/span,耗时:1.7805871963500977秒
+2024-11-12 18:43:59,904  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.013107061386108398秒
+2024-11-12 18:44:00,745  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.8546340465545654秒
+2024-11-12 18:44:00,766  -----selenium------  INFO  等待元素text,客户,耗时:0.021157264709472656秒
+2024-11-12 18:44:01,321  -----selenium------  INFO  点击元素text,客户,耗时:0.5761668682098389秒
+2024-11-12 18:44:01,341  -----selenium------  INFO  等待元素text,添加客户,耗时:0.01950836181640625秒
+2024-11-12 18:44:03,809  -----selenium------  INFO  点击元素text,添加客户,耗时:2.4875757694244385秒
+2024-11-12 18:44:03,815  -----selenium------  INFO  切换默认框架,耗时:0.006097316741943359秒
+2024-11-12 18:44:03,825  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.009790658950805664秒
+2024-11-12 18:44:03,861  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.04579949378967285秒
+2024-11-12 18:44:03,873  -----selenium------  INFO  等待元素id,name,耗时:0.012585163116455078秒
+2024-11-12 18:44:03,969  -----selenium------  INFO  输入内容id,name,李四,耗时:0.1079564094543457秒
+2024-11-12 18:44:03,981  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.011061668395996094秒
+2024-11-12 18:44:04,091  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/a/span,耗时:0.12091779708862305秒
+2024-11-12 18:44:04,104  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.012140035629272461秒
+2024-11-12 18:44:04,224  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[3]/td[1]/div[2]/div/ul/li[1],耗时:0.1324622631072998秒
+2024-11-12 18:44:04,242  -----selenium------  INFO  等待元素id,sourceNote,耗时:0.016759395599365234秒
+2024-11-12 18:44:04,325  -----selenium------  INFO  输入内容id,sourceNote,2233,耗时:0.09965229034423828秒
+2024-11-12 18:44:04,337  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.012337923049926758秒
+2024-11-12 18:44:04,441  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/a/span,耗时:0.11637187004089355秒
+2024-11-12 18:44:04,454  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.013123035430908203秒
+2024-11-12 18:44:04,562  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[1]/div/div/ul/li[2],耗时:0.1211695671081543秒
+2024-11-12 18:44:04,572  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.009336709976196289秒
+2024-11-12 18:44:04,685  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/a/span,耗时:0.1228628158569336秒
+2024-11-12 18:44:04,685  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.0秒
+2024-11-12 18:44:04,799  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[1]/table/tbody/tr[4]/td[2]/div/div/ul/li[1],耗时:0.11421680450439453秒
+2024-11-12 18:44:04,810  -----selenium------  INFO  等待元素id,contact,耗时:0.010827779769897461秒
+2024-11-12 18:44:04,888  -----selenium------  INFO  输入内容id,contact,张三,耗时:0.08880138397216797秒
+2024-11-12 18:44:04,901  -----selenium------  INFO  等待元素id,title,耗时:0.01258707046508789秒
+2024-11-12 18:44:04,985  -----selenium------  INFO  输入内容id,title,经理,耗时:0.09716176986694336秒
+2024-11-12 18:44:04,998  -----selenium------  INFO  等待元素id,email,耗时:0.012506246566772461秒
+2024-11-12 18:44:05,137  -----selenium------  INFO  输入内容id,email,zhangsan@example.com,耗时:0.15154290199279785秒
+2024-11-12 18:44:05,151  -----selenium------  INFO  等待元素id,mobile,耗时:0.012110233306884766秒
+2024-11-12 18:44:05,259  -----selenium------  INFO  输入内容id,mobile,13883104113,耗时:0.12004399299621582秒
+2024-11-12 18:44:05,271  -----selenium------  INFO  等待元素id,weixin,耗时:0.011607646942138672秒
+2024-11-12 18:44:05,385  -----selenium------  INFO  输入内容id,weixin,z3080827078,耗时:0.12534713745117188秒
+2024-11-12 18:44:05,400  -----selenium------  INFO  等待元素id,phone,耗时:0.015917301177978516秒
+2024-11-12 18:44:05,513  -----selenium------  INFO  输入内容id,phone,135441672,耗时:0.12835383415222168秒
+2024-11-12 18:44:05,515  -----selenium------  INFO  等待元素id,qq,耗时:0.001322031021118164秒
+2024-11-12 18:44:05,639  -----selenium------  INFO  输入内容id,qq,342971706,耗时:0.12486600875854492秒
+2024-11-12 18:44:05,655  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/a/span,耗时:0.012203454971313477秒
+2024-11-12 18:44:05,756  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/a/span,耗时:0.11221885681152344秒
+2024-11-12 18:44:05,769  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/div/ul/li[3],耗时:0.013031244277954102秒
+2024-11-12 18:44:05,871  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[1]/div/div/ul/li[3],耗时:0.11435317993164062秒
+2024-11-12 18:44:05,884  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/a/span,耗时:0.012784957885742188秒
+2024-11-12 18:44:05,985  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/a/span,耗时:0.11356329917907715秒
+2024-11-12 18:44:05,998  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/div/ul/li[1],耗时:0.01202845573425293秒
+2024-11-12 18:44:06,105  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[1]/td[2]/div/div/ul/li[1],耗时:0.11997008323669434秒
+2024-11-12 18:44:06,119  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/a/span,耗时:0.013645172119140625秒
+2024-11-12 18:44:06,219  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/a/span,耗时:0.11383795738220215秒
+2024-11-12 18:44:06,233  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/div/ul/li[1],耗时:0.012984514236450195秒
+2024-11-12 18:44:06,331  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[1]/div/div/ul/li[1],耗时:0.11076974868774414秒
+2024-11-12 18:44:06,336  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/a/span,耗时:0.002655506134033203秒
+2024-11-12 18:44:06,452  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/a/span,耗时:0.11917448043823242秒
+2024-11-12 18:44:06,468  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/div/ul/li[7],耗时:0.015717029571533203秒
+2024-11-12 18:44:06,569  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[2]/td[2]/div/div/ul/li[7],耗时:0.11635947227478027秒
+2024-11-12 18:44:06,582  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/a/span,耗时:0.012737035751342773秒
+2024-11-12 18:44:06,679  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/a/span,耗时:0.10918235778808594秒
+2024-11-12 18:44:06,695  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],耗时:0.016025304794311523秒
+2024-11-12 18:44:06,796  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[1]/div/div/ul/li[1],耗时:0.11715149879455566秒
+2024-11-12 18:44:06,799  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[2]/div/a/span,耗时:0.0028624534606933594秒
+2024-11-12 18:44:06,943  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[2]/div/a/span,耗时:0.14652729034423828秒
+2024-11-12 18:44:06,963  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[2]/div/div/ul/li[2],耗时:0.018596649169921875秒
+2024-11-12 18:44:07,086  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[3]/td[2]/div/div/ul/li[2],耗时:0.14179396629333496秒
+2024-11-12 18:44:07,099  -----selenium------  INFO  等待元素id,addresstitle,耗时:0.01226806640625秒
+2024-11-12 18:44:07,194  -----selenium------  INFO  输入内容id,addresstitle,北京市海淀区,耗时:0.1080160140991211秒
+2024-11-12 18:44:07,207  -----selenium------  INFO  等待元素id,addresslocation,耗时:0.012476444244384766秒
+2024-11-12 18:44:07,287  -----selenium------  INFO  输入内容id,addresslocation,海淀区,耗时:0.09223675727844238秒
+2024-11-12 18:44:07,300  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[6]/td[1]/div/div/a/span,耗时:0.013015270233154297秒
+2024-11-12 18:44:07,431  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[6]/td[1]/div/div/a/span,耗时:0.14463233947753906秒
+2024-11-12 18:44:07,445  -----selenium------  INFO  等待元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[6]/td[1]/div/div/div/ul/li[2],耗时:0.011349678039550781秒
+2024-11-12 18:44:07,564  -----selenium------  INFO  点击元素xpath,/html/body/div[2]/div[1]/div[2]/form/fieldset[3]/table/tbody/tr[6]/td[1]/div/div/div/ul/li[2],耗时:0.13008594512939453秒
+2024-11-12 18:44:07,564  -----selenium------  INFO  等待元素id,intension,耗时:0.0秒
+2024-11-12 18:44:07,691  -----selenium------  INFO  输入内容id,intension,买！！！！！！！！！！,耗时:0.12736845016479492秒
+2024-11-12 18:44:07,703  -----selenium------  INFO  等待元素id,submit,耗时:0.012296438217163086秒
+2024-11-12 18:44:07,818  -----selenium------  INFO  点击元素id,submit,耗时:0.1272110939025879秒
+2024-11-12 19:03:19,498  -----selenium------  INFO  启动chrome浏览器,耗时:58.371309995651245秒
+2024-11-12 19:03:26,007  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:6.506976366043091秒
+2024-11-12 19:03:26,022  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01523590087890625秒
+2024-11-12 19:03:26,089  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.08185267448425293秒
+2024-11-12 19:03:27,335  -----selenium------  INFO  等待元素id,s-menu-8,耗时:1.2460627555847168秒
+2024-11-12 19:03:27,399  -----selenium------  INFO  点击元素id,s-menu-8,耗时:1.3107004165649414秒
+2024-11-12 19:03:27,415  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.015542268753051758秒
+2024-11-12 19:03:28,232  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.8330307006835938秒
+2024-11-12 19:03:28,252  -----selenium------  INFO  等待元素text,项目,耗时:0.019835710525512695秒
+2024-11-12 19:03:28,620  -----selenium------  INFO  点击元素text,项目,耗时:0.38770508766174316秒
+2024-11-12 19:03:38,692  -----selenium------  ERROR  点击元素text,创建项目,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:03:43,394  -----selenium------  ERROR  输入内容id,name,项目名称285151570,错误消息Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B77FA75]
+	(No symbol) [0x00007FF66B822C77]
+	(No symbol) [0x00007FF66B83B351]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:04:14,993  -----selenium------  INFO  启动chrome浏览器,耗时:1.4689884185791016秒
+2024-11-12 19:04:17,851  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:2.8575518131256104秒
+2024-11-12 19:04:17,865  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013203859329223633秒
+2024-11-12 19:04:17,921  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.06919407844543457秒
+2024-11-12 19:04:18,912  -----selenium------  INFO  等待元素id,s-menu-8,耗时:0.9905140399932861秒
+2024-11-12 19:04:18,977  -----selenium------  INFO  点击元素id,s-menu-8,耗时:1.055356502532959秒
+2024-11-12 19:04:18,991  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.01290130615234375秒
+2024-11-12 19:04:19,618  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.6402382850646973秒
+2024-11-12 19:04:19,635  -----selenium------  INFO  等待元素text,项目,耗时:0.015286922454833984秒
+2024-11-12 19:04:20,434  -----selenium------  INFO  点击元素text,项目,耗时:0.814532995223999秒
+2024-11-12 19:04:40,996  -----selenium------  ERROR  点击元素text,创建项目,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:05:30,674  -----selenium------  INFO  启动chrome浏览器,耗时:1.4954311847686768秒
+2024-11-12 19:05:45,311  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:14.637604236602783秒
+2024-11-12 19:05:45,331  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.018964767456054688秒
+2024-11-12 19:05:45,387  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07425308227539062秒
+2024-11-12 19:05:50,705  -----selenium------  INFO  等待元素id,s-menu-8,耗时:5.318533182144165秒
+2024-11-12 19:05:50,770  -----selenium------  INFO  点击元素id,s-menu-8,耗时:5.383342981338501秒
+2024-11-12 19:05:50,783  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.012792825698852539秒
+2024-11-12 19:05:53,303  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:2.533301591873169秒
+2024-11-12 19:05:53,317  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.013596773147583008秒
+2024-11-12 19:05:54,113  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.8098580837249756秒
+2024-11-12 19:05:54,132  -----selenium------  INFO  等待元素text,创建项目,耗时:0.017065048217773438秒
+2024-11-12 19:05:54,235  -----selenium------  INFO  点击元素text,创建项目,耗时:0.12148618698120117秒
+2024-11-12 19:06:00,726  -----selenium------  INFO  等待元素id,name,耗时:6.490910530090332秒
+2024-11-12 19:06:00,855  -----selenium------  INFO  输入内容id,name,项目名称479618920,耗时:6.620254755020142秒
+2024-11-12 19:06:00,873  -----selenium------  INFO  等待元素id,begin,耗时:0.017667531967163086秒
+2024-11-12 19:06:01,031  -----selenium------  INFO  点击元素id,begin,耗时:0.17528009414672852秒
+2024-11-12 19:09:00,197  -----selenium------  INFO  启动chrome浏览器,耗时:1.5089702606201172秒
+2024-11-12 19:09:09,676  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:9.479558944702148秒
+2024-11-12 19:09:09,691  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.015037775039672852秒
+2024-11-12 19:09:09,747  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07046627998352051秒
+2024-11-12 19:09:10,767  -----selenium------  INFO  等待元素id,s-menu-8,耗时:1.0201842784881592秒
+2024-11-12 19:09:10,853  -----selenium------  INFO  点击元素id,s-menu-8,耗时:1.1064090728759766秒
+2024-11-12 19:09:10,874  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.020731449127197266秒
+2024-11-12 19:09:11,479  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.6256084442138672秒
+2024-11-12 19:09:11,494  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.014922618865966797秒
+2024-11-12 19:09:11,769  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.28969311714172363秒
+2024-11-12 19:09:11,786  -----selenium------  INFO  等待元素text,创建项目,耗时:0.017766952514648438秒
+2024-11-12 19:09:11,898  -----selenium------  INFO  点击元素text,创建项目,耗时:0.12945294380187988秒
+2024-11-12 19:09:12,970  -----selenium------  INFO  等待元素id,name,耗时:1.0717933177947998秒
+2024-11-12 19:09:13,062  -----selenium------  INFO  输入内容id,name,项目名称615065185,耗时:1.1639490127563477秒
+2024-11-12 19:09:13,074  -----selenium------  INFO  等待元素id,begin,耗时:0.011794328689575195秒
+2024-11-12 19:09:13,190  -----selenium------  INFO  点击元素id,begin,耗时:0.12850594520568848秒
+2024-11-12 19:09:13,203  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.011620521545410156秒
+2024-11-12 19:09:13,332  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.1403944492340088秒
+2024-11-12 19:09:13,342  -----selenium------  INFO  等待元素id,end,耗时:0.01048421859741211秒
+2024-11-12 19:09:13,446  -----selenium------  INFO  点击元素id,end,耗时:0.11370348930358887秒
+2024-11-12 19:09:13,465  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.018052339553833008秒
+2024-11-12 19:09:13,573  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12628960609436035秒
+2024-11-12 19:13:24,187  -----selenium------  INFO  启动chrome浏览器,耗时:1.474043607711792秒
+2024-11-12 19:13:40,243  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:16.055790662765503秒
+2024-11-12 19:13:40,259  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.015500068664550781秒
+2024-11-12 19:13:40,317  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07340526580810547秒
+2024-11-12 19:13:46,565  -----selenium------  INFO  等待元素id,s-menu-8,耗时:6.247993230819702秒
+2024-11-12 19:13:46,629  -----selenium------  INFO  点击元素id,s-menu-8,耗时:6.3104774951934814秒
+2024-11-12 19:13:46,642  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.013521194458007812秒
+2024-11-12 19:13:49,362  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:2.7335586547851562秒
+2024-11-12 19:13:49,376  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.01399993896484375秒
+2024-11-12 19:13:50,437  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:1.075134515762329秒
+2024-11-12 19:13:50,462  -----selenium------  INFO  等待元素text,创建项目,耗时:0.024637699127197266秒
+2024-11-12 19:13:50,566  -----selenium------  INFO  点击元素text,创建项目,耗时:0.1289353370666504秒
+2024-11-12 19:14:02,686  -----selenium------  INFO  等待元素id,name,耗时:12.118627071380615秒
+2024-11-12 19:14:02,807  -----selenium------  INFO  输入内容id,name,项目名称441217918,耗时:12.238808393478394秒
+2024-11-12 19:14:02,822  -----selenium------  INFO  等待元素id,begin,耗时:0.015094280242919922秒
+2024-11-12 19:14:02,945  -----selenium------  INFO  点击元素id,begin,耗时:0.13822221755981445秒
+2024-11-12 19:14:02,962  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01728057861328125秒
+2024-11-12 19:14:13,019  -----selenium------  ERROR  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7F702F]
+	(No symbol) [0x00007FF66B7E996E]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:14:13,031  -----selenium------  INFO  等待元素id,end,耗时:0.012768030166625977秒
+2024-11-12 19:14:13,146  -----selenium------  INFO  点击元素id,end,耗时:0.12751197814941406秒
+2024-11-12 19:14:13,160  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.013759136199951172秒
+2024-11-12 19:14:13,267  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12084364891052246秒
+2024-11-12 19:14:13,271  -----selenium------  INFO  切换默认框架,耗时:0.0029914379119873047秒
+2024-11-12 19:14:23,312  -----selenium------  ERROR  切换框架xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:14:23,322  -----selenium------  INFO  等待元素xpath,/html/body,耗时:0.010632038116455078秒
+2024-11-12 19:14:23,407  -----selenium------  INFO  输入内容xpath,/html/body,1110679043,耗时:0.09492969512939453秒
+2024-11-12 19:14:33,444  -----selenium------  ERROR  点击元素id,submit,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:17:08,174  -----selenium------  INFO  启动chrome浏览器,耗时:1.4711151123046875秒
+2024-11-12 19:17:22,761  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:14.586966514587402秒
+2024-11-12 19:17:22,776  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013848066329956055秒
+2024-11-12 19:17:22,852  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0894780158996582秒
+2024-11-12 19:17:26,304  -----selenium------  INFO  等待元素id,s-menu-8,耗时:3.4518790245056152秒
+2024-11-12 19:17:26,368  -----selenium------  INFO  点击元素id,s-menu-8,耗时:3.5165228843688965秒
+2024-11-12 19:17:26,381  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.012633085250854492秒
+2024-11-12 19:17:27,365  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.9971828460693359秒
+2024-11-12 19:17:27,389  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.022996902465820312秒
+2024-11-12 19:17:27,879  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.512831449508667秒
+2024-11-12 19:17:27,898  -----selenium------  INFO  等待元素text,创建项目,耗时:0.018887042999267578秒
+2024-11-12 19:17:27,994  -----selenium------  INFO  点击元素text,创建项目,耗时:0.11543440818786621秒
+2024-11-12 19:17:32,414  -----selenium------  INFO  等待元素id,name,耗时:4.418097496032715秒
+2024-11-12 19:17:32,523  -----selenium------  INFO  输入内容id,name,项目名称69148243,耗时:4.527764081954956秒
+2024-11-12 19:17:32,532  -----selenium------  INFO  等待元素id,begin,耗时:0.008860349655151367秒
+2024-11-12 19:17:32,645  -----selenium------  INFO  点击元素id,begin,耗时:0.12201309204101562秒
+2024-11-12 19:17:32,663  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.017812490463256836秒
+2024-11-12 19:17:42,694  -----selenium------  ERROR  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7F702F]
+	(No symbol) [0x00007FF66B7E996E]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:17:42,708  -----selenium------  INFO  等待元素id,end,耗时:0.01296091079711914秒
+2024-11-12 19:17:42,820  -----selenium------  INFO  点击元素id,end,耗时:0.1248328685760498秒
+2024-11-12 19:17:42,836  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01632547378540039秒
+2024-11-12 19:17:42,949  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12900114059448242秒
+2024-11-12 19:17:42,963  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],耗时:0.014312744140625秒
+2024-11-12 19:17:43,021  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],1287558433,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:17:43,038  -----selenium------  INFO  等待元素id,submit,耗时:0.01658153533935547秒
+2024-11-12 19:17:43,144  -----selenium------  INFO  点击元素id,submit,耗时:0.12282586097717285秒
+2024-11-12 19:18:06,508  -----selenium------  INFO  启动chrome浏览器,耗时:1.428891897201538秒
+2024-11-12 19:18:11,374  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:4.865923881530762秒
+2024-11-12 19:18:11,389  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01439046859741211秒
+2024-11-12 19:18:11,449  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0745248794555664秒
+2024-11-12 19:18:12,208  -----selenium------  INFO  等待元素id,s-menu-8,耗时:0.7588057518005371秒
+2024-11-12 19:18:12,308  -----selenium------  INFO  点击元素id,s-menu-8,耗时:0.8591737747192383秒
+2024-11-12 19:18:12,334  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.025355100631713867秒
+2024-11-12 19:18:12,664  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.35490942001342773秒
+2024-11-12 19:18:12,681  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.017551183700561523秒
+2024-11-12 19:18:12,949  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.2851986885070801秒
+2024-11-12 19:18:12,969  -----selenium------  INFO  等待元素text,创建项目,耗时:0.019223451614379883秒
+2024-11-12 19:18:13,085  -----selenium------  INFO  点击元素text,创建项目,耗时:0.135361909866333秒
+2024-11-12 19:18:13,864  -----selenium------  INFO  等待元素id,name,耗时:0.7775740623474121秒
+2024-11-12 19:18:14,002  -----selenium------  INFO  输入内容id,name,项目名称924536882,耗时:0.9159016609191895秒
+2024-11-12 19:18:17,017  -----selenium------  INFO  等待元素id,begin,耗时:0.013196229934692383秒
+2024-11-12 19:18:17,123  -----selenium------  INFO  点击元素id,begin,耗时:0.11982583999633789秒
+2024-11-12 19:18:17,140  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01674199104309082秒
+2024-11-12 19:18:17,256  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.1323225498199463秒
+2024-11-12 19:18:17,273  -----selenium------  INFO  等待元素id,end,耗时:0.017077207565307617秒
+2024-11-12 19:18:17,376  -----selenium------  INFO  点击元素id,end,耗时:0.1205892562866211秒
+2024-11-12 19:18:17,390  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01360774040222168秒
+2024-11-12 19:18:17,493  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11649250984191895秒
+2024-11-12 19:18:17,505  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],耗时:0.012605905532836914秒
+2024-11-12 19:18:17,579  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],1513419063,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:18:17,594  -----selenium------  INFO  等待元素id,submit,耗时:0.015092134475708008秒
+2024-11-12 19:18:17,700  -----selenium------  INFO  点击元素id,submit,耗时:0.12102580070495605秒
+2024-11-12 19:18:58,558  -----selenium------  INFO  启动chrome浏览器,耗时:1.5149013996124268秒
+2024-11-12 19:19:10,166  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:11.6075758934021秒
+2024-11-12 19:19:10,182  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.016180753707885742秒
+2024-11-12 19:19:10,247  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.08124327659606934秒
+2024-11-12 19:19:13,113  -----selenium------  INFO  等待元素id,s-menu-8,耗时:2.8648321628570557秒
+2024-11-12 19:19:13,182  -----selenium------  INFO  点击元素id,s-menu-8,耗时:2.933427333831787秒
+2024-11-12 19:19:13,196  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.014036893844604492秒
+2024-11-12 19:19:14,363  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:1.1811892986297607秒
+2024-11-12 19:19:14,378  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.014946460723876953秒
+2024-11-12 19:19:14,840  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.47743701934814453秒
+2024-11-12 19:19:14,857  -----selenium------  INFO  等待元素text,创建项目,耗时:0.016832828521728516秒
+2024-11-12 19:19:14,972  -----selenium------  INFO  点击元素text,创建项目,耗时:0.13168549537658691秒
+2024-11-12 19:19:18,192  -----selenium------  INFO  等待元素id,name,耗时:3.220086097717285秒
+2024-11-12 19:19:18,307  -----selenium------  INFO  输入内容id,name,项目名称830535182,耗时:3.3347902297973633秒
+2024-11-12 19:19:21,332  -----selenium------  INFO  等待元素id,begin,耗时:0.015676259994506836秒
+2024-11-12 19:19:21,446  -----selenium------  INFO  点击元素id,begin,耗时:0.13016557693481445秒
+2024-11-12 19:19:21,454  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.0074765682220458984秒
+2024-11-12 19:19:21,574  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12790751457214355秒
+2024-11-12 19:19:21,588  -----selenium------  INFO  等待元素id,end,耗时:0.013536214828491211秒
+2024-11-12 19:19:21,705  -----selenium------  INFO  点击元素id,end,耗时:0.1308448314666748秒
+2024-11-12 19:19:21,719  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.013584136962890625秒
+2024-11-12 19:19:21,826  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12104225158691406秒
+2024-11-12 19:19:21,841  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],耗时:0.013877153396606445秒
+2024-11-12 19:19:21,909  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],123123123123,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:19:21,922  -----selenium------  INFO  等待元素id,submit,耗时:0.013464689254760742秒
+2024-11-12 19:19:22,032  -----selenium------  INFO  点击元素id,submit,耗时:0.12380719184875488秒
+2024-11-12 19:20:02,071  -----selenium------  INFO  启动chrome浏览器,耗时:1.4279234409332275秒
+2024-11-12 19:20:16,376  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:14.304931879043579秒
+2024-11-12 19:20:16,389  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.012364625930786133秒
+2024-11-12 19:20:16,450  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07410645484924316秒
+2024-11-12 19:20:19,012  -----selenium------  INFO  等待元素id,s-menu-8,耗时:2.560689687728882秒
+2024-11-12 19:20:19,081  -----selenium------  INFO  点击元素id,s-menu-8,耗时:2.6293139457702637秒
+2024-11-12 19:20:19,094  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.012939214706420898秒
+2024-11-12 19:20:20,223  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:1.1423633098602295秒
+2024-11-12 19:20:20,237  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.013401508331298828秒
+2024-11-12 19:20:20,856  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.6328623294830322秒
+2024-11-12 19:20:20,875  -----selenium------  INFO  等待元素text,创建项目,耗时:0.01832437515258789秒
+2024-11-12 19:20:20,969  -----selenium------  INFO  点击元素text,创建项目,耗时:0.11312055587768555秒
+2024-11-12 19:20:28,055  -----selenium------  INFO  等待元素id,name,耗时:7.085222482681274秒
+2024-11-12 19:20:28,196  -----selenium------  INFO  输入内容id,name,项目名称610289443,耗时:7.226268768310547秒
+2024-11-12 19:20:31,212  -----selenium------  INFO  等待元素id,begin,耗时:0.01443934440612793秒
+2024-11-12 19:20:31,323  -----selenium------  INFO  点击元素id,begin,耗时:0.1241765022277832秒
+2024-11-12 19:20:31,339  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01629924774169922秒
+2024-11-12 19:20:31,454  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.13167643547058105秒
+2024-11-12 19:20:31,468  -----selenium------  INFO  等待元素id,end,耗时:0.01348257064819336秒
+2024-11-12 19:20:31,569  -----selenium------  INFO  点击元素id,end,耗时:0.11480474472045898秒
+2024-11-12 19:20:31,603  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.0334470272064209秒
+2024-11-12 19:20:31,713  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.14392638206481934秒
+2024-11-12 19:20:31,716  -----selenium------  INFO  切换默认框架,耗时:0.0025260448455810547秒
+2024-11-12 19:20:41,760  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],123123123123,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:21:07,082  -----selenium------  INFO  启动chrome浏览器,耗时:1.416011095046997秒
+2024-11-12 19:21:31,616  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:24.5339834690094秒
+2024-11-12 19:21:31,629  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.012815237045288086秒
+2024-11-12 19:21:31,704  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.08809208869934082秒
+2024-11-12 19:21:33,821  -----selenium------  INFO  等待元素id,s-menu-8,耗时:2.115647077560425秒
+2024-11-12 19:21:33,888  -----selenium------  INFO  点击元素id,s-menu-8,耗时:2.1826589107513428秒
+2024-11-12 19:21:33,902  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.013500690460205078秒
+2024-11-12 19:21:34,588  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,耗时:0.6996521949768066秒
+2024-11-12 19:21:34,602  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.014114856719970703秒
+2024-11-12 19:21:35,044  -----selenium------  INFO  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,耗时:0.4559502601623535秒
+2024-11-12 19:21:35,066  -----selenium------  INFO  等待元素text,创建项目,耗时:0.022062301635742188秒
+2024-11-12 19:21:35,184  -----selenium------  INFO  点击元素text,创建项目,耗时:0.14026451110839844秒
+2024-11-12 19:21:37,803  -----selenium------  INFO  等待元素id,name,耗时:2.6182620525360107秒
+2024-11-12 19:21:37,914  -----selenium------  INFO  输入内容id,name,项目名称569336820,耗时:2.7294907569885254秒
+2024-11-12 19:21:38,939  -----selenium------  INFO  等待元素id,begin,耗时:0.015272855758666992秒
+2024-11-12 19:21:39,047  -----selenium------  INFO  点击元素id,begin,耗时:0.12317395210266113秒
+2024-11-12 19:21:39,058  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.010912895202636719秒
+2024-11-12 19:21:39,180  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.13298964500427246秒
+2024-11-12 19:21:39,193  -----selenium------  INFO  等待元素id,end,耗时:0.01269078254699707秒
+2024-11-12 19:21:39,296  -----selenium------  INFO  点击元素id,end,耗时:0.1163029670715332秒
+2024-11-12 19:21:39,310  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.012271642684936523秒
+2024-11-12 19:21:39,414  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11613059043884277秒
+2024-11-12 19:21:39,433  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.019151926040649414秒
+2024-11-12 19:21:39,465  -----selenium------  INFO  切换框架xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.05173134803771973秒
+2024-11-12 19:21:49,522  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],123123123123,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:23:00,009  -----selenium------  INFO  启动chrome浏览器,耗时:1.4483258724212646秒
+2024-11-12 19:23:09,886  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:9.873886585235596秒
+2024-11-12 19:23:09,899  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01336216926574707秒
+2024-11-12 19:23:09,959  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07325196266174316秒
+2024-11-12 19:23:19,982  -----selenium------  ERROR  点击元素id,s-menu-8,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:23:27,372  -----selenium------  ERROR  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 19:23:51,088  -----selenium------  INFO  启动chrome浏览器,耗时:1.4082601070404053秒
+2024-11-12 19:24:02,204  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:11.116499185562134秒
+2024-11-12 19:24:03,219  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013572216033935547秒
+2024-11-12 19:24:03,284  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07813882827758789秒
+2024-11-12 19:24:13,330  -----selenium------  ERROR  点击元素id,s-menu-8,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:24:23,356  -----selenium------  ERROR  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:24:33,405  -----selenium------  ERROR  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:24:43,425  -----selenium------  ERROR  点击元素text,创建项目,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:24:54,284  -----selenium------  INFO  启动chrome浏览器,耗时:1.4558203220367432秒
+2024-11-12 19:25:18,634  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:24.34649968147278秒
+2024-11-12 19:25:18,651  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.017328500747680664秒
+2024-11-12 19:25:18,706  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07164168357849121秒
+2024-11-12 19:25:40,123  -----selenium------  ERROR  点击元素id,s-menu-8,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:25:50,174  -----selenium------  ERROR  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:25:52,680  -----selenium------  ERROR  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 19:26:09,028  -----selenium------  ERROR  点击元素text,创建项目,错误消息HTTPConnectionPool(host='localhost', port=13085): Max retries exceeded with url: /session/60ac6715ac4acc779ecd7bebd9428aef/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020F7E0FB620>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-11-12 19:26:25,340  -----selenium------  ERROR  输入内容id,name,项目名称828308743,错误消息HTTPConnectionPool(host='localhost', port=13085): Max retries exceeded with url: /session/60ac6715ac4acc779ecd7bebd9428aef/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020F7E130050>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-11-12 19:26:44,627  -----selenium------  ERROR  点击元素id,begin,错误消息HTTPConnectionPool(host='localhost', port=13085): Max retries exceeded with url: /session/60ac6715ac4acc779ecd7bebd9428aef/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020F7E130AA0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-11-12 19:27:00,955  -----selenium------  ERROR  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],错误消息HTTPConnectionPool(host='localhost', port=13085): Max retries exceeded with url: /session/60ac6715ac4acc779ecd7bebd9428aef/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020F7E0FB7A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-11-12 19:27:17,197  -----selenium------  ERROR  点击元素id,end,错误消息HTTPConnectionPool(host='localhost', port=13085): Max retries exceeded with url: /session/60ac6715ac4acc779ecd7bebd9428aef/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020F7E0FB680>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2024-11-12 19:27:27,167  -----selenium------  INFO  启动chrome浏览器,耗时:1.4377555847167969秒
+2024-11-12 19:27:49,311  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:22.143511295318604秒
+2024-11-12 19:27:49,324  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.01286935806274414秒
+2024-11-12 19:27:49,383  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07215690612792969秒
+2024-11-12 19:27:52,334  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:2.9513001441955566秒
+2024-11-12 19:27:52,389  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:3.006087064743042秒
+2024-11-12 19:28:02,414  -----selenium------  ERROR  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:28:12,442  -----selenium------  ERROR  点击元素text,项目,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:28:39,848  -----selenium------  INFO  启动chrome浏览器,耗时:1.434499979019165秒
+2024-11-12 19:29:17,187  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:37.338441610336304秒
+2024-11-12 19:29:17,201  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014091968536376953秒
+2024-11-12 19:29:17,258  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07082486152648926秒
+2024-11-12 19:29:27,305  -----selenium------  ERROR  点击元素id,s-menu-8,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:29:37,346  -----selenium------  ERROR  切换框架xpath,/html/body/div[1]/div[5]/div[2]/div[3]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:29:47,381  -----selenium------  ERROR  点击元素xpath,/html/body/div[1]/div/nav/ul/li[2]/a,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:29:51,142  -----selenium------  ERROR  点击元素text,创建项目,错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 19:30:59,236  -----selenium------  INFO  启动chrome浏览器,耗时:1.4386136531829834秒
+2024-11-12 19:31:27,556  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:28.320046186447144秒
+2024-11-12 19:31:27,570  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013978242874145508秒
+2024-11-12 19:31:27,631  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07544898986816406秒
+2024-11-12 19:31:33,113  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:5.480663299560547秒
+2024-11-12 19:31:33,175  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:5.542309761047363秒
+2024-11-12 19:31:43,208  -----selenium------  ERROR  切换框架xpath,/html/body/div[1]/div[5]/div[3]/div[3]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:31:53,276  -----selenium------  ERROR  点击元素text,项目,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:32:03,351  -----selenium------  ERROR  点击元素text,创建项目,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:32:20,106  -----selenium------  INFO  启动chrome浏览器,耗时:1.504054069519043秒
+2024-11-12 19:32:49,591  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:29.48522114753723秒
+2024-11-12 19:32:49,609  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013908147811889648秒
+2024-11-12 19:32:49,667  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0722200870513916秒
+2024-11-12 19:32:56,411  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:6.7442779541015625秒
+2024-11-12 19:32:56,469  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:6.801515340805054秒
+2024-11-12 19:32:56,482  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.013345003128051758秒
+2024-11-12 19:32:56,514  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.045206546783447266秒
+2024-11-12 19:32:56,531  -----selenium------  INFO  等待元素text,项目,耗时:0.016952991485595703秒
+2024-11-12 19:32:57,746  -----selenium------  INFO  点击元素text,项目,耗时:1.2323839664459229秒
+2024-11-12 19:32:57,765  -----selenium------  INFO  等待元素text,创建项目,耗时:0.019032955169677734秒
+2024-11-12 19:32:57,863  -----selenium------  INFO  点击元素text,创建项目,耗时:0.1170201301574707秒
+2024-11-12 19:33:13,214  -----selenium------  INFO  等待元素id,name,耗时:15.351166486740112秒
+2024-11-12 19:33:13,301  -----selenium------  INFO  输入内容id,name,项目名称467302630,耗时:15.43795895576477秒
+2024-11-12 19:33:16,317  -----selenium------  INFO  等待元素id,begin,耗时:0.014109373092651367秒
+2024-11-12 19:33:16,427  -----selenium------  INFO  点击元素id,begin,耗时:0.12475204467773438秒
+2024-11-12 19:33:16,444  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01447916030883789秒
+2024-11-12 19:33:16,547  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11752700805664062秒
+2024-11-12 19:33:16,558  -----selenium------  INFO  等待元素id,end,耗时:0.010567903518676758秒
+2024-11-12 19:33:16,676  -----selenium------  INFO  点击元素id,end,耗时:0.128892183303833秒
+2024-11-12 19:33:16,688  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.010430335998535156秒
+2024-11-12 19:33:16,793  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11608505249023438秒
+2024-11-12 19:33:16,804  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],耗时:0.011028051376342773秒
+2024-11-12 19:33:16,871  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],180977983,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:33:16,891  -----selenium------  INFO  等待元素id,submit,耗时:0.01997995376586914秒
+2024-11-12 19:33:16,999  -----selenium------  INFO  点击元素id,submit,耗时:0.127485990524292秒
+2024-11-12 19:35:39,950  -----selenium------  INFO  启动chrome浏览器,耗时:1.4488070011138916秒
+2024-11-12 19:36:24,031  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:44.080910444259644秒
+2024-11-12 19:36:24,046  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014614343643188477秒
+2024-11-12 19:36:24,122  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.09091997146606445秒
+2024-11-12 19:36:39,590  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:15.467767715454102秒
+2024-11-12 19:36:39,647  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:15.525134801864624秒
+2024-11-12 19:36:39,655  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.007932901382446289秒
+2024-11-12 19:36:39,695  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.047501564025878906秒
+2024-11-12 19:36:39,705  -----selenium------  INFO  等待元素text,项目,耗时:0.010153770446777344秒
+2024-11-12 19:36:41,396  -----selenium------  INFO  点击元素text,项目,耗时:1.7011983394622803秒
+2024-11-12 19:36:41,410  -----selenium------  INFO  等待元素text,创建项目,耗时:0.014485359191894531秒
+2024-11-12 19:36:41,515  -----selenium------  INFO  点击元素text,创建项目,耗时:0.11915421485900879秒
+2024-11-12 19:36:54,133  -----selenium------  INFO  等待元素id,name,耗时:12.617780923843384秒
+2024-11-12 19:36:54,249  -----selenium------  INFO  输入内容id,name,项目名称848651098,耗时:12.734105348587036秒
+2024-11-12 19:36:57,262  -----selenium------  INFO  等待元素id,begin,耗时:0.010587930679321289秒
+2024-11-12 19:36:57,379  -----selenium------  INFO  点击元素id,begin,耗时:0.1270885467529297秒
+2024-11-12 19:36:57,393  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01417994499206543秒
+2024-11-12 19:36:57,499  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.1202852725982666秒
+2024-11-12 19:36:57,512  -----selenium------  INFO  等待元素id,end,耗时:0.01257181167602539秒
+2024-11-12 19:36:57,620  -----selenium------  INFO  点击元素id,end,耗时:0.1207435131072998秒
+2024-11-12 19:36:57,632  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.012377738952636719秒
+2024-11-12 19:36:57,735  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11484694480895996秒
+2024-11-12 19:36:57,735  -----selenium------  INFO  切换默认框架,耗时:0.0秒
+2024-11-12 19:37:07,759  -----selenium------  ERROR  切换框架xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:37:07,779  -----selenium------  INFO  等待元素xpath,/html,耗时:0.01985907554626465秒
+2024-11-12 19:37:07,846  -----selenium------  INFO  输入内容xpath,/html,1579691423,耗时:0.08612179756164551秒
+2024-11-12 19:37:17,884  -----selenium------  ERROR  点击元素id,submit,错误消息Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A582A]
+	(No symbol) [0x00007FF66B7F5B8E]
+	(No symbol) [0x00007FF66B7F5E7C]
+	(No symbol) [0x00007FF66B83EC27]
+	(No symbol) [0x00007FF66B81BC1F]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:38:47,029  -----selenium------  INFO  启动chrome浏览器,耗时:1.4533812999725342秒
+2024-11-12 19:39:14,068  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:27.039413928985596秒
+2024-11-12 19:39:14,081  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.012487173080444336秒
+2024-11-12 19:39:14,142  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07362103462219238秒
+2024-11-12 19:39:18,709  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:4.566517114639282秒
+2024-11-12 19:39:18,767  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:4.624490737915039秒
+2024-11-12 19:39:18,781  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.013128519058227539秒
+2024-11-12 19:39:18,805  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.03762555122375488秒
+2024-11-12 19:39:18,829  -----selenium------  INFO  等待元素text,项目,耗时:0.02338695526123047秒
+2024-11-12 19:39:19,742  -----selenium------  INFO  点击元素text,项目,耗时:0.937126874923706秒
+2024-11-12 19:39:19,761  -----selenium------  INFO  等待元素text,创建项目,耗时:0.01899099349975586秒
+2024-11-12 19:39:19,874  -----selenium------  INFO  点击元素text,创建项目,耗时:0.13137269020080566秒
+2024-11-12 19:39:29,745  -----selenium------  INFO  等待元素id,name,耗时:9.871182918548584秒
+2024-11-12 19:39:29,864  -----selenium------  INFO  输入内容id,name,项目名称671706784,耗时:9.990569829940796秒
+2024-11-12 19:39:32,889  -----selenium------  INFO  等待元素id,begin,耗时:0.022062301635742188秒
+2024-11-12 19:39:32,997  -----selenium------  INFO  点击元素id,begin,耗时:0.13016009330749512秒
+2024-11-12 19:39:33,014  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.016819238662719727秒
+2024-11-12 19:39:33,119  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12241196632385254秒
+2024-11-12 19:39:33,141  -----selenium------  INFO  等待元素id,end,耗时:0.022174358367919922秒
+2024-11-12 19:39:33,244  -----selenium------  INFO  点击元素id,end,耗时:0.12509393692016602秒
+2024-11-12 19:39:33,259  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.014237165451049805秒
+2024-11-12 19:39:33,361  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11693406105041504秒
+2024-11-12 19:39:33,380  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td,耗时:0.013998031616210938秒
+2024-11-12 19:39:33,443  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td,1229780090,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:39:33,459  -----selenium------  INFO  等待元素id,submit,耗时:0.010918855667114258秒
+2024-11-12 19:39:33,567  -----selenium------  INFO  点击元素id,submit,耗时:0.11916399002075195秒
+2024-11-12 19:39:33,568  -----selenium------  INFO  切换默认框架,耗时:0.0010809898376464844秒
+2024-11-12 19:40:04,197  -----selenium------  INFO  启动chrome浏览器,耗时:1.441009759902954秒
+2024-11-12 19:40:27,499  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:23.302231073379517秒
+2024-11-12 19:40:27,517  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.015359878540039062秒
+2024-11-12 19:40:27,590  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.08827400207519531秒
+2024-11-12 19:40:32,313  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:4.721299886703491秒
+2024-11-12 19:40:32,373  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:4.782102108001709秒
+2024-11-12 19:40:32,381  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.00816488265991211秒
+2024-11-12 19:40:32,418  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.04542136192321777秒
+2024-11-12 19:40:32,454  -----selenium------  INFO  等待元素text,项目,耗时:0.036253929138183594秒
+2024-11-12 19:40:33,550  -----selenium------  INFO  点击元素text,项目,耗时:1.132047414779663秒
+2024-11-12 19:40:33,568  -----selenium------  INFO  等待元素text,创建项目,耗时:0.017233610153198242秒
+2024-11-12 19:40:33,672  -----selenium------  INFO  点击元素text,创建项目,耗时:0.12085604667663574秒
+2024-11-12 19:40:41,827  -----selenium------  INFO  等待元素id,name,耗时:8.155022144317627秒
+2024-11-12 19:40:41,942  -----selenium------  INFO  输入内容id,name,项目名称355741202,耗时:8.270471096038818秒
+2024-11-12 19:40:44,959  -----selenium------  INFO  等待元素id,begin,耗时:0.014085531234741211秒
+2024-11-12 19:40:45,075  -----selenium------  INFO  点击元素id,begin,耗时:0.12986207008361816秒
+2024-11-12 19:40:45,090  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.015007972717285156秒
+2024-11-12 19:40:45,196  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.1204218864440918秒
+2024-11-12 19:40:45,205  -----selenium------  INFO  等待元素id,end,耗时:0.009093046188354492秒
+2024-11-12 19:40:45,324  -----selenium------  INFO  点击元素id,end,耗时:0.12810945510864258秒
+2024-11-12 19:40:45,338  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.014699220657348633秒
+2024-11-12 19:40:45,444  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12077903747558594秒
+2024-11-12 19:40:45,454  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],耗时:0.009261846542358398秒
+2024-11-12 19:40:45,522  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],1986775222,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:40:45,533  -----selenium------  INFO  等待元素id,submit,耗时:0.01101827621459961秒
+2024-11-12 19:40:45,644  -----selenium------  INFO  点击元素id,submit,耗时:0.12210702896118164秒
+2024-11-12 19:40:45,647  -----selenium------  INFO  切换默认框架,耗时:0.0020627975463867188秒
+2024-11-12 19:44:24,617  -----selenium------  INFO  启动chrome浏览器,耗时:1.486314296722412秒
+2024-11-12 19:44:53,008  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:28.390453815460205秒
+2024-11-12 19:44:53,022  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.013707399368286133秒
+2024-11-12 19:44:53,081  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07301068305969238秒
+2024-11-12 19:44:59,157  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:6.076221704483032秒
+2024-11-12 19:44:59,220  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:6.138576030731201秒
+2024-11-12 19:44:59,232  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.01235342025756836秒
+2024-11-12 19:44:59,271  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.05098891258239746秒
+2024-11-12 19:44:59,286  -----selenium------  INFO  等待元素text,项目,耗时:0.015652894973754883秒
+2024-11-12 19:45:00,337  -----selenium------  INFO  点击元素text,项目,耗时:1.066267967224121秒
+2024-11-12 19:45:00,356  -----selenium------  INFO  等待元素text,创建项目,耗时:0.019608259201049805秒
+2024-11-12 19:45:00,462  -----selenium------  INFO  点击元素text,创建项目,耗时:0.12477660179138184秒
+2024-11-12 19:45:08,139  -----selenium------  INFO  等待元素id,name,耗时:7.677807569503784秒
+2024-11-12 19:45:08,267  -----selenium------  INFO  输入内容id,name,项目名称552903856,耗时:7.805782079696655秒
+2024-11-12 19:45:11,270  -----selenium------  INFO  等待元素id,begin,耗时:0.0010135173797607422秒
+2024-11-12 19:45:11,395  -----selenium------  INFO  点击元素id,begin,耗时:0.1267702579498291秒
+2024-11-12 19:45:11,411  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.01607966423034668秒
+2024-11-12 19:45:11,522  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12702679634094238秒
+2024-11-12 19:45:11,541  -----selenium------  INFO  等待元素id,end,耗时:0.018392324447631836秒
+2024-11-12 19:45:11,654  -----selenium------  INFO  点击元素id,end,耗时:0.13200688362121582秒
+2024-11-12 19:45:11,669  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.014588117599487305秒
+2024-11-12 19:45:11,763  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.10823345184326172秒
+2024-11-12 19:45:11,777  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],耗时:0.014690876007080078秒
+2024-11-12 19:45:11,860  -----selenium------  ERROR  输入内容xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2],1432145750,错误消息Message: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66BC638A5+3004357]
+	(No symbol) [0x00007FF66B8F9970]
+	(No symbol) [0x00007FF66B7A5659]
+	(No symbol) [0x00007FF66B7EF724]
+	(No symbol) [0x00007FF66B7ED816]
+	(No symbol) [0x00007FF66B81BBDA]
+	(No symbol) [0x00007FF66B7E92A6]
+	(No symbol) [0x00007FF66B81BDF0]
+	(No symbol) [0x00007FF66B83BA4C]
+	(No symbol) [0x00007FF66B81B983]
+	(No symbol) [0x00007FF66B7E7628]
+	(No symbol) [0x00007FF66B7E8791]
+	GetHandleVerifier [0x00007FF66BC8A00D+3161901]
+	GetHandleVerifier [0x00007FF66BCDE060+3506048]
+	GetHandleVerifier [0x00007FF66BCD400D+3465005]
+	GetHandleVerifier [0x00007FF66BA50EEB+830987]
+	(No symbol) [0x00007FF66B90467F]
+	(No symbol) [0x00007FF66B9009D4]
+	(No symbol) [0x00007FF66B900B6D]
+	(No symbol) [0x00007FF66B8F0149]
+	BaseThreadInitThunk [0x00007FF9514CDBE7+23]
+	RtlUserThreadStart [0x00007FF9527BFBEC+44]
+
+2024-11-12 19:45:11,874  -----selenium------  INFO  等待元素id,submit,耗时:0.011868000030517578秒
+2024-11-12 19:45:11,973  -----selenium------  INFO  点击元素id,submit,耗时:0.11052775382995605秒
+2024-11-12 19:45:11,978  -----selenium------  INFO  切换默认框架,耗时:0.005196332931518555秒
+2024-11-12 19:46:18,454  -----selenium------  INFO  启动chrome浏览器,耗时:1.4801113605499268秒
+2024-11-12 19:46:39,937  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:21.482263326644897秒
+2024-11-12 19:46:39,955  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.015341043472290039秒
+2024-11-12 19:46:40,013  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07349109649658203秒
+2024-11-12 19:46:44,672  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:4.65769362449646秒
+2024-11-12 19:46:44,734  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:4.719179630279541秒
+2024-11-12 19:46:44,747  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.013849496841430664秒
+2024-11-12 19:46:44,781  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.04716038703918457秒
+2024-11-12 19:46:44,789  -----selenium------  INFO  等待元素text,项目,耗时:0.007966995239257812秒
+2024-11-12 19:46:45,738  -----selenium------  INFO  点击元素text,项目,耗时:0.9575223922729492秒
+2024-11-12 19:46:45,761  -----selenium------  INFO  等待元素text,创建项目,耗时:0.022353649139404297秒
+2024-11-12 19:46:45,881  -----selenium------  INFO  点击元素text,创建项目,耗时:0.1420154571533203秒
+2024-11-12 19:46:54,754  -----selenium------  INFO  等待元素id,name,耗时:8.871857166290283秒
+2024-11-12 19:46:54,876  -----selenium------  INFO  输入内容id,name,项目名称769100208,耗时:8.994311332702637秒
+2024-11-12 19:46:57,890  -----selenium------  INFO  等待元素id,begin,耗时:0.007154703140258789秒
+2024-11-12 19:46:58,008  -----selenium------  INFO  点击元素id,begin,耗时:0.1252291202545166秒
+2024-11-12 19:46:58,017  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.008481025695800781秒
+2024-11-12 19:46:58,144  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.1358652114868164秒
+2024-11-12 19:46:58,159  -----selenium------  INFO  等待元素id,end,耗时:0.014532089233398438秒
+2024-11-12 19:46:58,268  -----selenium------  INFO  点击元素id,end,耗时:0.12424778938293457秒
+2024-11-12 19:46:58,276  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.007253885269165039秒
+2024-11-12 19:46:58,399  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.13084959983825684秒
+2024-11-12 19:46:58,410  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.010363101959228516秒
+2024-11-12 19:46:58,452  -----selenium------  INFO  切换框架xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.05313682556152344秒
+2024-11-12 19:46:58,461  -----selenium------  INFO  等待元素xpath,/html,耗时:0.008492231369018555秒
+2024-11-12 19:46:58,580  -----selenium------  INFO  输入内容xpath,/html,1881594549,耗时:0.1278221607208252秒
+2024-11-12 19:47:08,025  -----selenium------  ERROR  点击元素id,submit,错误消息('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-11-12 19:47:37,046  -----selenium------  INFO  启动chrome浏览器,耗时:1.4140913486480713秒
+2024-11-12 19:47:49,982  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:12.935914754867554秒
+2024-11-12 19:47:49,996  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014035940170288086秒
+2024-11-12 19:47:50,059  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.0765376091003418秒
+2024-11-12 19:47:52,604  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:2.545224189758301秒
+2024-11-12 19:47:52,669  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:2.6099133491516113秒
+2024-11-12 19:47:52,682  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.013517618179321289秒
+2024-11-12 19:47:52,714  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.04566359519958496秒
+2024-11-12 19:47:52,733  -----selenium------  INFO  等待元素text,项目,耗时:0.01706528663635254秒
+2024-11-12 19:47:53,252  -----selenium------  INFO  点击元素text,项目,耗时:0.536109447479248秒
+2024-11-12 19:47:53,270  -----selenium------  INFO  等待元素text,创建项目,耗时:0.017117738723754883秒
+2024-11-12 19:47:53,367  -----selenium------  INFO  点击元素text,创建项目,耗时:0.11454296112060547秒
+2024-11-12 19:47:57,097  -----selenium------  INFO  等待元素id,name,耗时:3.7302935123443604秒
+2024-11-12 19:47:57,221  -----selenium------  INFO  输入内容id,name,shenli785039311,耗时:3.854382038116455秒
+2024-11-12 19:48:00,243  -----selenium------  INFO  等待元素id,begin,耗时:0.020391464233398438秒
+2024-11-12 19:48:00,348  -----selenium------  INFO  点击元素id,begin,耗时:0.1258399486541748秒
+2024-11-12 19:48:00,363  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.014349937438964844秒
+2024-11-12 19:48:00,464  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11589550971984863秒
+2024-11-12 19:48:00,480  -----selenium------  INFO  等待元素id,end,耗时:0.015378952026367188秒
+2024-11-12 19:48:00,607  -----selenium------  INFO  点击元素id,end,耗时:0.14250421524047852秒
+2024-11-12 19:48:00,619  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.012201786041259766秒
+2024-11-12 19:48:00,724  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.11756539344787598秒
+2024-11-12 19:48:00,740  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.015866756439208984秒
+2024-11-12 19:48:00,779  -----selenium------  INFO  切换框架xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.05452394485473633秒
+2024-11-12 19:48:00,793  -----selenium------  INFO  等待元素xpath,/html,耗时:0.005570888519287109秒
+2024-11-12 19:48:00,917  -----selenium------  INFO  输入内容xpath,/html,1377331817,耗时:0.12921357154846191秒
+2024-11-12 19:48:00,919  -----selenium------  INFO  切换默认框架,耗时:0.0020487308502197266秒
+2024-11-12 19:48:00,928  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.009017705917358398秒
+2024-11-12 19:48:00,962  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.039629220962524414秒
+2024-11-12 19:48:00,974  -----selenium------  INFO  等待元素id,submit,耗时:0.012172222137451172秒
+2024-11-12 19:48:01,094  -----selenium------  INFO  点击元素id,submit,耗时:0.1319873332977295秒
+2024-11-12 19:48:01,097  -----selenium------  INFO  切换默认框架,耗时:0.0034117698669433594秒
+2024-11-12 19:53:40,324  -----selenium------  INFO  启动chrome浏览器,耗时:1.434802532196045秒
+2024-11-12 19:54:00,719  -----selenium------  INFO  打开地址https://demo.zdoo.com/sys/user-login.html,耗时:20.394314765930176秒
+2024-11-12 19:54:00,734  -----selenium------  INFO  等待元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.014321327209472656秒
+2024-11-12 19:54:00,798  -----selenium------  INFO  点击元素xpath,/html/body/div/div/div/div[2]/div/form/button,耗时:0.07806539535522461秒
+2024-11-12 19:54:04,956  -----selenium------  INFO  等待元素id,s-menu-dashboard,耗时:4.158405303955078秒
+2024-11-12 19:54:05,003  -----selenium------  INFO  点击元素id,s-menu-dashboard,耗时:4.204690933227539秒
+2024-11-12 19:54:05,031  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.012861013412475586秒
+2024-11-12 19:54:05,054  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.03607583045959473秒
+2024-11-12 19:54:05,079  -----selenium------  INFO  等待元素text,项目,耗时:0.024957895278930664秒
+2024-11-12 19:54:05,906  -----selenium------  INFO  点击元素text,项目,耗时:0.8525612354278564秒
+2024-11-12 19:54:05,924  -----selenium------  INFO  等待元素text,创建项目,耗时:0.01765298843383789秒
+2024-11-12 19:54:06,030  -----selenium------  INFO  点击元素text,创建项目,耗时:0.1233065128326416秒
+2024-11-12 19:54:11,675  -----selenium------  INFO  等待元素id,name,耗时:5.645615577697754秒
+2024-11-12 19:54:11,807  -----selenium------  INFO  输入内容id,name,shenli340326046,耗时:5.777158737182617秒
+2024-11-12 19:54:14,827  -----selenium------  INFO  等待元素id,begin,耗时:0.019261837005615234秒
+2024-11-12 19:54:14,940  -----selenium------  INFO  点击元素id,begin,耗时:0.13274359703063965秒
+2024-11-12 19:54:14,956  -----selenium------  INFO  等待元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.015315532684326172秒
+2024-11-12 19:54:15,069  -----selenium------  INFO  点击元素xpath,/html/body/div[6]/div[3]/table/tbody/tr[3]/td[2],耗时:0.12701034545898438秒
+2024-11-12 19:54:15,080  -----selenium------  INFO  等待元素id,end,耗时:0.011024951934814453秒
+2024-11-12 19:54:15,181  -----selenium------  INFO  点击元素id,end,耗时:0.11226844787597656秒
+2024-11-12 19:54:15,203  -----selenium------  INFO  等待元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.022572994232177734秒
+2024-11-12 19:54:15,302  -----selenium------  INFO  点击元素xpath,/html/body/div[7]/div[3]/table/tbody/tr[3]/td[2],耗时:0.1208200454711914秒
+2024-11-12 19:54:15,320  -----selenium------  INFO  等待元素xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.01810312271118164秒
+2024-11-12 19:54:15,360  -----selenium------  INFO  切换框架xpath,/html/body/div[4]/div/div/div[2]/form/table/tbody/tr[8]/td/div/div[2]/iframe,耗时:0.05878877639770508秒
+2024-11-12 19:54:15,367  -----selenium------  INFO  等待元素xpath,/html,耗时:0.0033693313598632812秒
+2024-11-12 19:54:15,492  -----selenium------  INFO  输入内容xpath,/html,1358206679,耗时:0.12831830978393555秒
+2024-11-12 19:54:15,497  -----selenium------  INFO  切换默认框架,耗时:0.004305124282836914秒
+2024-11-12 19:54:15,504  -----selenium------  INFO  等待元素xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.006306886672973633秒
+2024-11-12 19:54:15,542  -----selenium------  INFO  切换框架xpath,/html/body/div[1]/div[5]/div/div[3]/iframe,耗时:0.04405403137207031秒
+2024-11-12 19:54:15,547  -----selenium------  INFO  等待元素id,submit,耗时:0.005324363708496094秒
+2024-11-12 19:54:15,669  -----selenium------  INFO  点击元素id,submit,耗时:0.12735629081726074秒
+2024-11-12 19:54:15,673  -----selenium------  INFO  切换默认框架,耗时:0.0034818649291992188秒
